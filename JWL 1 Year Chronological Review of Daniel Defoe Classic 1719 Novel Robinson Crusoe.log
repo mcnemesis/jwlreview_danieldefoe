@@ -1,0 +1,992 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  14 JUN 2026 04:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinso
+n Crusoe.tex"
+
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/08/20 v0.6b Insert pages of external PDF documents (AM)
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count270
+\calc@Cskip=\skip53
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen144
+\ESO@tempdimb=\dimen145
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+\AM@pagewidth=\dimen148
+\AM@pageheight=\dimen149
+\AM@fboxrule=\dimen150
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2024/08/20 v0.6b Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count271
+\AM@pagebox=\box52
+\AM@global@opts=\toks18
+\AM@pagecnt=\count272
+\AM@toc@title=\toks19
+\AM@lof@heading=\toks20
+\c@AM@survey=\count273
+\AM@templatesizebox=\box53
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen151
+\enit@toks=\toks21
+\enit@inbox=\box54
+\enit@count@id=\count274
+\enitdp@description=\count275
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box55
+\shadowsize=\dimen152
+\@Sbox=\box56
+\do@VerbBox=\toks22
+\the@fancyput=\toks23
+\this@fancyput=\toks24
+\EndVerbatimTokens=\toks25
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read2
+) (C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count278
+\float@exts=\toks26
+\float@box=\box57
+\@float@everytoks=\toks27
+\@floatcapt=\box58
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box59
+)
+\tc@llx=\dimen161
+\tc@lly=\dimen162
+\tc@urx=\dimen163
+\tc@ury=\dimen164
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen165
+\adjbox@Height=\dimen166
+\adjbox@Depth=\dimen167
+\adjbox@Totalheight=\dimen168
+\adjbox@pwidth=\dimen169
+\adjbox@pheight=\dimen170
+\adjbox@pdepth=\dimen171
+\adjbox@ptotalheight=\dimen172
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count280
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box60
+\sift@deathcycles=\count281
+\@vwid@loff=\dimen173
+\@vwid@roff=\dimen174
+))
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count282
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen175
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count286
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count287
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen176
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count288
+\Field@Width=\dimen177
+\Fld@charsize=\dimen178
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count292
+\c@bookmark@seq@number=\count293
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.s
+ty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+) (C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip56
+\LTright=\skip57
+\LTpre=\skip58
+\LTpost=\skip59
+\LTchunksize=\count294
+\LTcapwidth=\dimen179
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count295
+\LT@rows=\count296
+\c@LT@tables=\count297
+\c@LT@chunks=\count298
+\LT@p@ftn=\toks30
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box66
+\extrarowheight=\dimen181
+\NC@list=\toks31
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box67
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count299
+\lst@gtempboxa=\box68
+\lst@token=\toks32
+\lst@length=\count300
+\lst@currlwidth=\dimen182
+\lst@column=\count301
+\lst@pos=\count302
+\lst@lostspace=\dimen183
+\lst@width=\dimen184
+\lst@newlines=\count303
+\lst@lineno=\count304
+\lst@maxwidth=\dimen185
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count305
+\lst@skipnumbers=\count306
+\lst@framebox=\box69
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen186
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count307
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count308
+\leftroot@=\count309
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count310
+\DOTSCASE@=\count311
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box70
+\strutbox@=\box71
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count312
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count313
+\dotsspace@=\muskip18
+\c@parentequation=\count314
+\dspbrk@lvl=\count315
+\tag@help=\toks34
+\row@=\count316
+\column@=\count317
+\maxfields@=\count318
+\andhelp@=\toks35
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks36
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip65
+\thm@postskip=\skip66
+\thm@headsep=\skip67
+\dth@everypar=\toks43
+)
+\c@comp=\count319
+\c@theo=\count320
+\c@defn=\count321
+\c@lem=\count322
+\c@prop=\count323
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/wrapfig2\wrapfig2.sty
+Package: wrapfig2 2024-01-18 v.7.0.0 Wrap text around figures, tables, framed t
+ext blocks
+
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-07-20 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count324
+\l__pdf_internal_box=\box72
+))
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xfp\xfp.sty
+Package: xfp 2024-05-08 L3 Floating point unit
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks44
+\@arclen=\dimen195
+\@arcrad=\dimen196
+\pIIe@tempdima=\dimen197
+\pIIe@tempdimb=\dimen198
+\pIIe@tempdimc=\dimen199
+\pIIe@tempdimd=\dimen256
+\pIIe@tempdime=\dimen257
+\pIIe@tempdimf=\dimen258
+)
+\@float@every@text=\toks45
+\c@text=\count325
+\wrapoverhang=\dimen259
+\WF@size=\dimen260
+\c@WF@wrappedlines=\count326
+\WF@box=\box73
+\NWF@box=\box74
+\WF@everypar=\toks46
+\WF@correctlines@switch=\count327
+\WFfrthick=\skip68
+\WFfrgap=\skip69
+\WFfrwidth=\skip70
+\WFfrheight=\skip71
+\insertwidth=\dimen261
+\WFXR=\skip72
+\WFYD=\skip73
+\WFXL=\skip74
+\WFYU=\skip75
+\radius=\dimen262
+\WFinsertwidthL=\dimen263
+\WFinsertwidthH=\dimen264
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks47
+\SOUL@lasttoken=\toks48
+\SOUL@syllable=\toks49
+\SOUL@cmds=\toks50
+\SOUL@buffer=\toks51
+\SOUL@token=\toks52
+\SOUL@syllgoal=\dimen265
+\SOUL@syllwidth=\dimen266
+\SOUL@charkern=\dimen267
+\SOUL@hyphkern=\dimen268
+\SOUL@dimen=\dimen269
+\SOUL@dimeni=\dimen270
+\SOUL@minus=\count328
+\SOUL@comma=\count329
+\SOUL@apo=\count330
+\SOUL@grave=\count331
+\SOUL@spaceskip=\skip76
+\SOUL@ttwidth=\dimen271
+\SOUL@uldp=\dimen272
+\SOUL@ulht=\dimen273
+)
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.aux)
+\openout1 = `"JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Nove
+l Robinson Crusoe.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen274
+\scratchbox=\box75
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen275
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks54
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.
+sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 106.
+
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.out)
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.out)
+\@outlinefile=\write4
+\openout4 = `"JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Nove
+l Robinson Crusoe.out"'.
+
+\c@lstlisting=\count338
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdfs/frontcover.pdf, id=7, 596.98032pt x 844.65562pt>
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 115.
+
+(pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 115.
+
+(pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdfs/frontcover.pdf, id=10, page=1, 596.98032pt x 844.65562pt>
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
+ne 115.
+(pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
+ne 115.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
+ne 115.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
+ne 115.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+
+
+File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
+<use resources/pdfs/frontcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
+ne 115.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+[1
+
+
+{C:/Users/AKAM/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./resources/p
+dfs/frontcover.pdf>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (1.5029pt too wide) in paragraph at lines 123--126
+\OT1/cmr/m/n/9 lights how sus-tained, re-flec-tive read-ing can deepen un-der-s
+tand-ing of canon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]\OT1/cmtt/m/n/10 If you want to be a writer, you must do two things
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+\OT1/cmtt/m/n/10 above all others: read a lot and write a lot. There's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+\OT1/cmtt/m/n/10 no way around these two things that I'm aware of, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[]\OT1/cmtt/m/n/10 If you don't have time to read, you don't have the
+ []
+
+
+
+[2]
+
+[3]
+<resources/images/author.jpg, id=61, 2457.18pt x 3276.24pt>
+File: resources/images/author.jpg Graphic file (type jpg)
+<use resources/images/author.jpg>
+Package pdftex.def Info: resources/images/author.jpg  used on input line 173.
+(pdftex.def)             Requested size: 137.9979pt x 183.9681pt.
+
+Underfull \hbox (badness 5417) in paragraph at lines 178--179
+[]\OT1/cmtt/m/n/10 [Future Professor] \OT1/cmr/bx/n/10 Joseph Will-rich
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 178--179
+\OT1/cmr/bx/n/10 Lu-talo \OT1/cmr/m/n/10 is an in-de-pen-dent em-pir-i-cal re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+
+ []
+
+
+
+[4 <./resources/images/author.jpg>]
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.bbl)
+<resources/images/innercover_a.jpeg, id=80, 1027.84pt x 1541.76pt>
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+
+[5]
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 200.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+[6
+
+ <./resources/images/innercover_a.jpeg>]
+<resources/images/innercover_b.jpeg, id=94, 1027.84pt x 1541.76pt>
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 208.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+[7
+
+ <./resources/images/innercover_b.jpeg>]
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdfs/backcover.pdf, id=102, 596.98032pt x 844.65562pt>
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf>
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 218.
+(pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf>
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 218.
+(pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<resources/pdfs/backcover.pdf, id=105, page=1, 596.98032pt x 844.65562pt>
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
+e 218.
+(pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
+e 218.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
+e 218.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
+e 218.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+
+
+File: resources/pdfs/backcover.pdf Graphic file (type pdf)
+<use resources/pdfs/backcover.pdf, page 1>
+Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
+e 218.
+(pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
+[8
+
+ <./resources/pdfs/backcover.pdf>]
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
+ ***********
+Package rerunfilecheck Info: File `"JWL 1 Year Chronological Review of Daniel D
+efoe Classic 1719 Novel Robinson Crusoe".out' has not changed.
+(rerunfilecheck)             Checksum: 7A99B3D443655247462991960A69C0DE;83.
+ ) 
+Here is how much of TeX's memory you used:
+ 16503 strings out of 473898
+ 263487 string characters out of 5736297
+ 1937960 words of memory out of 5000000
+ 39095 multiletter control sequences out of 15000+600000
+ 569393 words of font info for 79 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,17n,93p,1845b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\AKAM\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0
+600.pk> <C:\Users\AKAM\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmtt8.pfb>
+Output written on "JWL 1 Year Chronological Review of Daniel Defoe Classic 1719
+ Novel Robinson Crusoe.pdf" (8 pages, 5915564 bytes).
+PDF statistics:
+ 207 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+
