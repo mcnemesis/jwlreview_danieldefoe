@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  14 JUN 2026 04:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  15 JUN 2026 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -594,29 +594,70 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 (C:\Users\AKAM\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
+(C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+12.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
 usoe.aux)
 \openout1 = `"JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Nove
 l Robinson Crusoe.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count332
@@ -660,7 +701,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 106.
+Package hyperref Info: Link coloring OFF on input line 112.
 
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
 usoe.out)
@@ -675,10 +716,10 @@ l Robinson Crusoe.out"'.
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=7, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=83, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf>
-Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 115.
+Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 121.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -687,7 +728,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf>
-Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 115.
+Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 121.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -698,207 +739,993 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=10, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=86, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
-ne 115.
+ne 121.
 (pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
-ne 115.
+ne 121.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
-ne 115.
+ne 121.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
-ne 115.
+ne 121.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 
 
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
-ne 115.
+ne 121.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 [1
 
 
-{C:/Users/AKAM/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./resources/p
-dfs/frontcover.pdf>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+{C:/Users/AKAM/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fil
+es/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./resources/pdfs/frontcover.pdf>]
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+26.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+126.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+126.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 126.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 126.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 126.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 126
 .
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+LaTeX Font Info:    Trying to load font information for U+msb on input line 126
 .
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (1.5029pt too wide) in paragraph at lines 123--126
-\OT1/cmr/m/n/9 lights how sus-tained, re-flec-tive read-ing can deepen un-der-s
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+26.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+126.
+
+(C:\Program Files\MiKTeX\tex/latex/lm\ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 126.
+
+Overfull \hbox (1.5053pt too wide) in paragraph at lines 129--132
+\OT1/lmr/m/n/9 lights how sus-tained, re-flec-tive read-ing can deepen un-der-s
 tand-ing of canon-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--126
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-[]\OT1/cmtt/m/n/10 If you want to be a writer, you must do two things
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+[]\OT1/lmtt/m/n/10 If you want to be a writer, you must do two things
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-\OT1/cmtt/m/n/10 above all others: read a lot and write a lot. There's
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\OT1/lmtt/m/n/10 above all others: read a lot and write a lot. There's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-\OT1/cmtt/m/n/10 no way around these two things that I'm aware of, no
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\OT1/lmtt/m/n/10 no way around these two things that I'm aware of, no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-[]\OT1/cmtt/m/n/10 If you don't have time to read, you don't have the
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+[]\OT1/lmtt/m/n/10 If you don't have time to read, you don't have the
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 159.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 159.
+
+
+[2{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKT
+eX/fonts/enc/dvips/lm/lm-rmtt.enc}]
+
+[3{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+[]\OT1/lmtt/m/n/10 I Was born in the Year 1632, in the City of York,
  []
 
 
-
-[2]
-
-[3]
-<resources/images/author.jpg, id=61, 2457.18pt x 3276.24pt>
-File: resources/images/author.jpg Graphic file (type jpg)
-<use resources/images/author.jpg>
-Package pdftex.def Info: resources/images/author.jpg  used on input line 173.
-(pdftex.def)             Requested size: 137.9979pt x 183.9681pt.
-
-Underfull \hbox (badness 5417) in paragraph at lines 178--179
-[]\OT1/cmtt/m/n/10 [Future Professor] \OT1/cmr/bx/n/10 Joseph Will-rich
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 of a good Family, tho' not of that Country, my Father
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 178--179
-\OT1/cmr/bx/n/10 Lu-talo \OT1/cmr/m/n/10 is an in-de-pen-dent em-pir-i-cal re-
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 being a Foreigner of Bremen, who settled first at Hull:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--185
-
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 He got a good Estate by Merchandise, and leaving off
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--185
-
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 his Trade, lived afterward at York, from whence he had
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 married my Mother, whose Relations were named Robinson,
+ []
 
-[4 <./resources/images/author.jpg>]
-(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
-usoe.bbl)
-<resources/images/innercover_a.jpeg, id=80, 1027.84pt x 1541.76pt>
-File: resources/images/innercover_a.jpeg Graphic file (type jpg)
-<use resources/images/innercover_a.jpeg>
-Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
-(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
-File: resources/images/innercover_a.jpeg Graphic file (type jpg)
-<use resources/images/innercover_a.jpeg>
-Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
-(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
-File: resources/images/innercover_a.jpeg Graphic file (type jpg)
-<use resources/images/innercover_a.jpeg>
-Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
-(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
-File: resources/images/innercover_a.jpeg Graphic file (type jpg)
-<use resources/images/innercover_a.jpeg>
-Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
-(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 a very good Family in that Country, and from whom I was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 called Robinson Kreutznaer; but by the usual Corruption
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 of Words in England, we are now called, nay we call our
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+\OT1/lmtt/m/n/10 selves, and write our Name Crusoe, and so my Companions
+ []
+
+LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 227.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+[]\OT1/lmtt/m/n/10 My Father, a wise and grave Man, gave me serious
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 and excellent Counsel against what he foresaw was my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 Design. He call'd me one Morning into his Chamber,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 where he was confined by the Gout, and expostulated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 very warmly with me upon this Subject: He ask'd me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 what Reasons more than a meer wandring Inclination I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 had for leaving my Father's House and my native Country,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 where I might be well introduced, and had a Prospect of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 raising my Fortunes by Application and Industry, with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 a Life of Ease and Pleasure. He told me it was for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 Men of desperate Fortunes on one Hand, or of aspiring,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 superior Fortunes on the other, who went abroad upon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 Adventures, to rise by Enterprize, and make themselves
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 famous in Undertakings of a Nature out of the common
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 Road; that these things were all either too far above
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 me, or too far below me; that mine was \OT1/lmtt/b/n/10 the mi
+ddle State\OT1/lmtt/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 or what might be called the upper Station of \OT1/lmtt/m/it/10
+ Low Life\OT1/lmtt/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 which he had found by long Experience was \OT1/lmtt/b/n/10 the
+ best State
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 in the World\OT1/lmtt/m/n/10 , the \OT1/lmtt/b/n/10 most suite
+d to human Happiness\OT1/lmtt/m/n/10 , \OT1/lmtt/b/n/10 not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 exposed to the Miseries and Hardships, the Labour and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 Sufferings of the mechanick Part of Mankind, and not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 embarass'd with the Pride, Luxury, Ambition and Envy of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 the upper Part of Mankind\OT1/lmtt/m/n/10 . He told me, I migh
+t judge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 of the Happiness of this State, by this one thing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 viz. That this was the State of Life which all other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/n/10 People envied, \OT1/lmtt/b/n/10 that Kings have frequently lam
+ented the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 miserable Consequences of being born to great things,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 and wish'd they had been placed in the Middle of the two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/b/n/10 Extremes, between the Mean and the Great\OT1/lmtt/m/n/10 ; tha
+t \OT1/lmtt/m/it/10 the wise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/it/10 Man gave his Testimony to this as the just Standard of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\OT1/lmtt/m/it/10 true Felicity, when he prayed to have neither Poverty or
+ []
+
 
 
 [5]
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+[]\OT1/lmtt/m/n/10 the Master seeing some [potential aid]... ordered to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]\OT1/lmtt/m/n/10 I have since often observed, how incongruous and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/m/n/10 irrational the common Temper of Mankind is, especially
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/m/n/10 of Youth, to that Reason which ought to guide them in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/m/n/10 such Cases, viz. \OT1/lmtt/b/n/10 That they are not asham'd to
+ sin, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/b/n/10 yet are asham'd to repent; \OT1/lmtt/m/n/10 not \OT1/lmtt/b/n/
+10 asham'd of the Action for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/b/n/10 which they ought justly to be esteemed Fools, but are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/lmtt/b/n/10 asham'd of the returning\OT1/lmtt/m/n/10 , which only can make
+ them be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+[]\OT1/lmtt/m/n/10 that the Calamities of Life were shared among the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 upper and lower Part of Mankind; but that \OT1/lmtt/b/n/10 the
+ middle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 Station had the fewest Disasters, and was not expos'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 to so many Vicissitudes as the higher or lower Part
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 of Mankind\OT1/lmtt/m/n/10 ; nay, they were not subjected to s
+o many
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 Distempers and Uneasinesses either of Body or Mind,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 as those were who, by vicious Living, Luxury and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 Extravagancies on one Hand, or by hard Labour, Want
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 of Necessaries, and mean or insufficient Diet on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 other Hand, bring Distempers upon themselves by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 natural Consequences of their Way of Living; That the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 middle Station of Life was calculated for all kind of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 Vertues and all kinds of Enjoyments; that Peace and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 Plenty were the Hand-maids of a middle Fortune; \OT1/lmtt/b/n/
+10 that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 Temperance, Moderation, Quietness, Health, Society, all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 agreeable Diversions, and all desirable Pleasures, were
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 the Blessings attending the middle Station of Life\OT1/lmtt/m/
+n/10 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 that this Way Men went silently and smoothly thro' the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 World, and comfortably out of it, not embarass'd with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/m/n/10 the Labours of the Hands or of the Head, \OT1/lmtt/b/n/10 not 
+sold to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 the Life of Slavery for daily Bread, or harrast with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\OT1/lmtt/b/n/10 perplex'd Circumstances, which rob the Soul of Peace,
+ []
+
+
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+[]\OT1/lmtt/m/n/10 I convey'd also a great Lump of Bees-Wax into the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 Boat, which weighed above half a Hundred Weight, with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 a Parcel of Twine or Thread, a Hatchet, a Saw and a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 Hammer, all which were of great Use to us afterwards;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 especially the Wax to make Candles. Another Trick I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 try'd upon him, which he innocently came into also;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 his Name was Ismael, who they call Muly or Moely, so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 I call'd to him, Moely said I, our Patroon's Guns are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 on board the Boat, can you not get a little Powder and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 Shot, it may be we may kill some Alcamies (a Fowl like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 our Curlieus) for our selves, for I know he keeps the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\OT1/lmtt/m/n/10 Gunner's Stores in the Ship? Yes, says he, I'll bring
+ []
+
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+[]\OT1/lmtt/m/n/10 I turn'd to the Boy, who they call'd \OT1/lmtt/m/it/10 Xury\
+OT1/lmtt/m/n/10 , and said
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/m/n/10 to him, Xury, if you will be faithful to me I'll make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/m/n/10 you a great Man, but if you will not stroak your Face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/m/n/10 to be true to me, that is, \OT1/lmtt/b/n/10 swear by Mahomet a
+nd his
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/b/n/10 Father's Beard\OT1/lmtt/m/n/10 , I must throw you into the Sea
+ too; the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/m/n/10 Boy smil'd in my Face and spoke so innocently that I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+\OT1/lmtt/m/n/10 could not mistrust him; and swore to be faithful to me,
+ []
+
+
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]\OT1/lmtt/m/n/10 then I made Signs to them for some Water, and held
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 out one of my Jarrs to them, turning it bottom upward,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 to shew that it was empty, and that I wanted to have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 it filled. They call'd immediately to some of their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 Friends, and there came two Women and brought a great
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 Vessel made of Earth, and burnt as I suppose in the Sun;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 this they set down for me, as before, and I sent Xury
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+\OT1/lmtt/m/n/10 on Shore with my Jarrs, and filled them all three: \OT1/lmtt/m
+/it/10 The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+[]\OT1/lmtt/m/n/10 I resolv'd to set all other Things apart, 'till I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+\OT1/lmtt/m/n/10 got every Thing out of the Ship that I could get; then
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+\OT1/lmtt/m/n/10 I call'd a Council, that is to say, in my Thoughts,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+\OT1/lmtt/m/n/10 whether I should take back the Raft, but this appear'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+\OT1/lmtt/m/n/10 impracticable; so I resolv'd to go as before, when the
+ []
+
+
+
+[10]
+Underfull \hbox (badness 1762) in paragraph at lines 430--430
+[][][]\OT1/lmr/m/n/8 Refer to a dig-i-tal au-ral de-pic-tion via Mu-seum of MAZ
+-ERA at []$\OT1/lmtt/m/n/8 https : / / t . me /
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 434.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+[]\OT1/lmtt/m/n/10 In the wee hours of today ( 2am to 5am), I set up
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+\OT1/lmtt/m/n/10 and performed a terrific MAZERA formal concert at the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+[]\OT1/lmtt/m/n/10 Formal opening with UGANDA national anthem, Buganda
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+\OT1/lmtt/m/n/10 Anthem, Chwezi Anthem and MAZERA Anthem (Amazing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+[]\OT1/lmtt/m/n/10 Literature Moments featuring dramatic,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\OT1/lmtt/m/n/10 translation-enhanced reading of Daniel Defoe's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\OT1/lmtt/m/n/10 classic novel ``Adventures of Robinson Crusoe"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+\OT1/lmtt/m/n/10 alongside metallic tunes of classic Catholic hymn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+[]\OT1/lmtt/m/n/10 Rock N Roll remix of legendary children's rhyme ``3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\OT1/lmtt/m/n/10 Little Kittens" complete with breaks of singing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\OT1/lmtt/m/n/10 story telling in English and Luganda as well as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+\OT1/lmtt/m/n/10 heavy metal growls! It was too energetic and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+[]\OT1/lmtt/m/n/10 At the performance of that last item, the heavens had
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 already gotten worked up quite well, and a storm visibly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 quickly approaching from across the Lake Victoria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 horizon compelled me to wind-up the concert and run
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 before the rain comes down on the open roof performance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 set (on similar occasions in the past, some of my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+\OT1/lmtt/m/n/10 hardware didn't make it when the performance caused
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+[]\OT1/lmtt/m/n/10 It was a worthwhile and terrific adventure! We
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\OT1/lmtt/m/n/10 feigned performing to an audience in Leicester and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\OT1/lmtt/m/n/10 it surely came out well. The crew had some drinks to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\OT1/lmtt/m/n/10 boost them up, and the performance had opened with some
+ []
+
+
+
+[11]
+Overfull \hbox (8.00168pt too wide) in paragraph at lines 469--469
+\OT1/lmr/bx/n/14.4 Shap-ing of Cru-soe's World and Cir-cum-stances 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+[]\OT1/lmtt/m/n/10 In the Interval of time while this was doing I went
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 out once at least every Day with my Gun, as well to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 divert my self, as to see if I could kill any thing fit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 for Food, and as near as I could to acquaint my self
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 with what the Island produc'd. The first time I went
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 out I presently discover'd that there were Goats in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 Island, which was a great Satisfaction to me; but then
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 it was attended with this Misfortune to me, viz. That
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 they were so shy, so subtile, and so swift of Foot, that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+\OT1/lmtt/m/n/10 it was the difficultest thing in the World to come at
+ []
+
+
+
+[12]
+<resources/images/author.jpg, id=223, 2457.18pt x 3276.24pt>
+File: resources/images/author.jpg Graphic file (type jpg)
+<use resources/images/author.jpg>
+Package pdftex.def Info: resources/images/author.jpg  used on input line 530.
+(pdftex.def)             Requested size: 137.9979pt x 183.9681pt.
+
+Underfull \hbox (badness 5417) in paragraph at lines 535--536
+[]\OT1/lmtt/m/n/10 [Future Professor] \OT1/lmr/bx/n/10 Joseph Will-rich
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 535--536
+\OT1/lmr/bx/n/10 Lu-talo \OT1/lmr/m/n/10 is an in-de-pen-dent em-pir-i-cal re-
+ []
+
+
+
+[13 <./resources/images/author.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 537--544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--544
+
+ []
+
+
+
+[14]
+(JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
+usoe.bbl)
+<resources/images/innercover_a.jpeg, id=244, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
+ 567.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 567.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 567.
+(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 567.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+
+[15]
+File: resources/images/innercover_a.jpeg Graphic file (type jpg)
+<use resources/images/innercover_a.jpeg>
+Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
+ 567.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
+ 567.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 200.
+ 567.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[6
+[16
 
  <./resources/images/innercover_a.jpeg>]
-<resources/images/innercover_b.jpeg, id=94, 1027.84pt x 1541.76pt>
+<resources/images/innercover_b.jpeg, id=259, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 208.
+ 575.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[7
+[17
 
  <./resources/images/innercover_b.jpeg>]
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=102, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=266, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 218.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 585.
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
 
@@ -906,7 +1733,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion:
 found PDF version <1.7>, but at most version <1.5> allowed
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 218.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 585.
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
 
@@ -916,35 +1743,35 @@ found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=105, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=269, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 218.
+e 585.
 (pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 218.
+e 585.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 218.
+e 585.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 218.
+e 585.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 
 
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 218.
+e 585.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
-[8
+[18
 
  <./resources/pdfs/backcover.pdf>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
@@ -955,38 +1782,36 @@ L3 programming layer <2024-07-20>
  ***********
 Package rerunfilecheck Info: File `"JWL 1 Year Chronological Review of Daniel D
 efoe Classic 1719 Novel Robinson Crusoe".out' has not changed.
-(rerunfilecheck)             Checksum: 7A99B3D443655247462991960A69C0DE;83.
+(rerunfilecheck)             Checksum: 7700FFAD5D68523C6AEC8C485FE213B3;6807.
  ) 
 Here is how much of TeX's memory you used:
- 16503 strings out of 473898
- 263487 string characters out of 5736297
- 1937960 words of memory out of 5000000
- 39095 multiletter control sequences out of 15000+600000
- 569393 words of font info for 79 fonts, out of 8000000 for 9000
+ 16768 strings out of 473898
+ 268494 string characters out of 5736297
+ 1939960 words of memory out of 5000000
+ 39281 multiletter control sequences out of 15000+600000
+ 637189 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,17n,93p,1845b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\AKAM\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0
-600.pk> <C:\Users\AKAM\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
-Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
-ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmtt8.pfb>
+ 79i,17n,93p,3443b,618s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/M
+iKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/lm/lmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/
+lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm
+/lmri7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtk10.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/p
+ublic/lm/lmtt8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
 Output written on "JWL 1 Year Chronological Review of Daniel Defoe Classic 1719
- Novel Robinson Crusoe.pdf" (8 pages, 5915564 bytes).
+ Novel Robinson Crusoe.pdf" (18 pages, 6272864 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
