@@ -6,45 +6,45 @@ The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: References.bib
 Warning--can't use both author and editor fields in Defoe2007
-You've used 5 entries,
+You've used 6 entries,
             1791 wiz_defined-function locations,
-            479 strings with 4827 characters,
-and the built_in function-call counts, 805 in all, are:
-= -- 75
-> -- 20
+            485 strings with 5115 characters,
+and the built_in function-call counts, 960 in all, are:
+= -- 89
+> -- 24
 < -- 0
-+ -- 10
-- -- 5
-* -- 23
-:= -- 136
-add.period$ -- 21
-call.type$ -- 5
++ -- 12
+- -- 6
+* -- 26
+:= -- 161
+add.period$ -- 25
+call.type$ -- 6
 change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 45
-empty$ -- 95
-format.name$ -- 5
-if$ -- 188
+cite$ -- 7
+duplicate$ -- 55
+empty$ -- 114
+format.name$ -- 6
+if$ -- 225
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 8
-newline$ -- 33
-num.names$ -- 5
-pop$ -- 25
+int.to.str$ -- 6
+missing$ -- 10
+newline$ -- 39
+num.names$ -- 6
+pop$ -- 31
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 10
+skip$ -- 12
 stack$ -- 0
 substring$ -- 0
-swap$ -- 6
+swap$ -- 7
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 5
-width$ -- 6
-write$ -- 65
+while$ -- 6
+width$ -- 7
+write$ -- 77
 (There was 1 warning)
