@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  20 JUN 2026 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  20 JUN 2026 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -716,7 +716,7 @@ l Robinson Crusoe.out"'.
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=287, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=311, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 121.
@@ -739,7 +739,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=290, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=314, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
@@ -861,7 +861,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [2{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKT
 eX/fonts/enc/dvips/lm/lm-rmtt.enc}]
-<resources/images/figure3.jpeg, id=328, 1027.84pt x 1027.84pt>
+<resources/images/figure3.jpeg, id=352, 1027.84pt x 1027.84pt>
 File: resources/images/figure3.jpeg Graphic file (type jpg)
 <use resources/images/figure3.jpeg>
 Package pdftex.def Info: resources/images/figure3.jpeg  used on input line 169.
@@ -1358,7 +1358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
 
 [10]
-<resources/images/figure1.jpeg, id=404, 1027.84pt x 1027.84pt>
+<resources/images/figure1.jpeg, id=428, 1027.84pt x 1027.84pt>
 File: resources/images/figure1.jpeg Graphic file (type jpg)
 <use resources/images/figure1.jpeg>
 Package pdftex.def Info: resources/images/figure1.jpeg  used on input line 381.
@@ -1408,7 +1408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 393--394
 
 
 [11 <./resources/images/figure1.jpeg>]
-<resources/images/figure2.jpeg, id=411, 1027.84pt x 1027.84pt>
+<resources/images/figure2.jpeg, id=435, 1027.84pt x 1027.84pt>
 File: resources/images/figure2.jpeg Graphic file (type jpg)
 <use resources/images/figure2.jpeg>
 Package pdftex.def Info: resources/images/figure2.jpeg  used on input line 406.
@@ -2146,7 +2146,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 872--873
 
 
 [24]
-<resources/images/figure4.jpeg, id=518, 1027.84pt x 1027.84pt>
+<resources/images/figure4.jpeg, id=542, 1027.84pt x 1027.84pt>
 File: resources/images/figure4.jpeg Graphic file (type jpg)
 <use resources/images/figure4.jpeg>
 Package pdftex.def Info: resources/images/figure4.jpeg  used on input line 897.
@@ -2836,7 +2836,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1358--1359
 
 
 [37]
-<resources/images/figure5.jpeg, id=629, 1027.84pt x 1027.84pt>
+<resources/images/figure5.jpeg, id=653, 1027.84pt x 1027.84pt>
 File: resources/images/figure5.jpeg Graphic file (type jpg)
 <use resources/images/figure5.jpeg>
 Package pdftex.def Info: resources/images/figure5.jpeg  used on input line 1373
@@ -3427,7 +3427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1684--1685
 
 
 [44]
-<resources/images/figure6.jpeg, id=672, 1027.84pt x 1027.84pt>
+<resources/images/figure6.jpeg, id=696, 1027.84pt x 1027.84pt>
 File: resources/images/figure6.jpeg Graphic file (type jpg)
 <use resources/images/figure6.jpeg>
 Package pdftex.def Info: resources/images/figure6.jpeg  used on input line 1699
@@ -4055,7 +4055,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
 
 
 [53]
-<resources/images/figure7.jpeg, id=731, 1027.84pt x 1027.84pt>
+<resources/images/figure7.jpeg, id=755, 1027.84pt x 1027.84pt>
 File: resources/images/figure7.jpeg Graphic file (type jpg)
 <use resources/images/figure7.jpeg>
 Package pdftex.def Info: resources/images/figure7.jpeg  used on input line 1961
@@ -4072,7 +4072,7 @@ t of locally-accessible[][][]
 [54 <./resources/images/figure7.jpeg>]
 
 [55]
-<resources/images/figure8.jpg, id=754, 2890.8pt x 2890.8pt>
+<resources/images/figure8.jpg, id=778, 2890.8pt x 2890.8pt>
 File: resources/images/figure8.jpg Graphic file (type jpg)
 <use resources/images/figure8.jpg>
 Package pdftex.def Info: resources/images/figure8.jpg  used on input line 1987.
@@ -4083,7 +4083,7 @@ Package pdftex.def Info: resources/images/figure8.jpg  used on input line 1987.
 [56]
 
 [57 <./resources/images/figure8.jpg>]
-<resources/images/figure9.jpg, id=768, 2890.8pt x 2890.8pt>
+<resources/images/figure9.jpg, id=792, 2890.8pt x 2890.8pt>
 File: resources/images/figure9.jpg Graphic file (type jpg)
 <use resources/images/figure9.jpg>
 Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2002.
@@ -4094,7 +4094,7 @@ Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2002.
 [58]
 
 [59 <./resources/images/figure9.jpg>]
-<resources/images/figure10.jpg, id=781, 4015.0pt x 3011.25pt>
+<resources/images/figure10.jpg, id=805, 4015.0pt x 3011.25pt>
 File: resources/images/figure10.jpg Graphic file (type jpg)
 <use resources/images/figure10.jpg>
 Package pdftex.def Info: resources/images/figure10.jpg  used on input line 2016
@@ -4103,166 +4103,631 @@ Package pdftex.def Info: resources/images/figure10.jpg  used on input line 2016
 
 
 [60 <./resources/images/figure10.jpg>]
-<resources/images/author.jpg, id=788, 2457.18pt x 3276.24pt>
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+[]\OT1/lmtt/m/n/10 But there was more work to do yet, for I perceived
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 the Savage who I knock'd down, was not kill'd, but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 stunn'd with the blow, and began to come to himself;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 so I pointed to him, and showing him the Savage, that he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 was not dead; \OT1/lmtt/b/n/10 upon this he spoke some Words t
+o me, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 though I could not understand them, yet I thought they
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 were pleasant to hear, for they were the first sound
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 of a Man's Voice, that I had heard, my own excepted,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 for above Twenty Five Years. \OT1/lmtt/m/n/10 But there was no
+ time for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 such Reflections now, the Savage who was knock'd down
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 recover'd himself so far, as to sit up upon the Ground,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 and I perceived that my Savage began to be afraid; but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 when I saw that, I presented my other Piece at the Man,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 as if I would shoot him, upon this \OT1/lmtt/b/n/10 my Savage\
+OT1/lmtt/m/n/10 , for so I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 call him now, made a Motion to me to lend him my Sword,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 which hung naked in a Belt by my side; so I did: he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 no sooner had it, but he runs to his Enemy, and at one
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 blow cut off his Head as cleaverly, no Executioner in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 Germany, could have done it sooner or better; which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 I thought very strange, for one who I had Reason to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 believe never saw a Sword in his Life before, except
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 their own Wooden Swords; however it seems, as I learn'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 afterwards, \OT1/lmtt/b/n/10 they make their Wooden Swords so 
+sharp, so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 heavy, and the Wood is so hard, that they will cut off
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/b/n/10 Heads even with them\OT1/lmtt/m/n/10 , ay and Arms, and that a
+t one blow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 too; when he had done this, he comes laughing to me in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 Sign of Triumph, and brought me the Sword again, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 with abundance of Gestures which I did not understand,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2042
+\OT1/lmtt/m/n/10 laid it down with the Head of the Savage, that he had
+ []
+
+
+
+[61]
+Overfull \hbox (0.78067pt too wide) in paragraph at lines 2061--2061
+\OT1/lmr/bx/n/14.4 Stun-ning Beauty of His Newly Ac-quired Man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+[]\OT1/lmtt/m/n/10 He was a comely handsome Fellow, perfectly well made;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 with straight strong Limbs, not too large; tall and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 well shap'd, and as I reckon, about twenty six Years of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 Age. He had a very good Countenance, not a fierce and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 surly Aspect; but seem'd to have something very manly in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 his Face, and yet he had all the Sweetness and Softness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 of an European in his Countenance too, especially when
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 he smil'd. His Hair was long and black, not curl'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 like Wool; his Forehead very high, and large, and a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 great Vivacity and sparkling Sharpness in his Eyes. The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 Colour of his Skin was not quite black, but very tawny;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 and yet not of an ugly yellow nauseous tawny, as the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 Brasilians, and Virginians, and other Natives of America
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 are; but of a bright kind of a dun olive Colour, that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 had in it something very agreeable; tho' not very easy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 to describe. His Face was round, and plump; his Nose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 small, not flat like the Negroes, a very good Mouth,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2072--2073
+\OT1/lmtt/m/n/10 thin Lips, and his fine Teeth well set, and white as
+ []
+
+
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+[]\OT1/lmtt/m/n/10 At last he lays his Head flat upon the Ground, close
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 to my Foot, and sets my other Foot upon his Head, as he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 had done before; and after this, made all the Signs to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 me of Subjection, Servitude, and Submission imaginable,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 to let me know, how he would serve me as long as he
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 liv'd; I understood him in many Things, and let him
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 know, I was very well pleas'd with him; in a little Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 I began to speak to him, and teach him to speak to me;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 and \OT1/lmtt/b/n/10 first, I made him know his Name should be
+ Friday,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/b/n/10 which was the Day I sav'd his Life\OT1/lmtt/m/n/10 ; I call'd 
+him so for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 the Memory of the Time; I likewise taught him to say
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 Master, and then let him know, that was to be my Name; I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2108--2109
+\OT1/lmtt/m/n/10 likewise taught him to say YES and NO, and to know the
+ []
+
+
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 2136--2137
+[]\OT1/lmtt/m/n/10 Jesus was often addressed as ``Master" by His
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2136--2137
+\OT1/lmtt/m/n/10 disciples, but He did not explicitly command them to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2136--2137
+\OT1/lmtt/m/n/10 use that title. Instead, He acknowledged and accepted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2136--2137
+\OT1/lmtt/m/n/10 it when they did, affirming His role as Teacher and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+[]\OT1/lmtt/b/n/10 Luke 5:5 \OT1/lmtt/m/n/10 | Simon Peter says: \OT1/lmtt/m/it
+/10 ``Master, we have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+\OT1/lmtt/m/it/10 worked hard all night and haven't caught anything.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+\OT1/lmtt/m/it/10 But because you say so, I will let down the nets."
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+\OT1/lmtt/m/n/10 Here, ``Master" reflects obedience to Jesus'
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2147--2149
+[]\OT1/lmtt/b/n/10 Luke 8:24 \OT1/lmtt/m/n/10 | During the storm, the disciples
+ cry:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2147--2149
+\OT1/lmtt/m/it/10 ``Master, Master, we are perishing!" \OT1/lmtt/m/n/10 Thus th
+ey
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2152
+[]\OT1/lmtt/b/n/10 John 13:13-14 \OT1/lmtt/m/n/10 | Jesus Himself says: \OT1/lm
+tt/m/it/10 ``You call Me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2152
+\OT1/lmtt/m/it/10 Teacher and Lord, and rightly so, for that is what
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2152
+\OT1/lmtt/m/it/10 I am." \OT1/lmtt/m/n/10 He thus affirms the titles given to H
+im,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2152
+\OT1/lmtt/m/n/10 including ``Master," but frames them in terms of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2158
+[]\OT1/lmtt/b/n/10 Matthew 23:10 \OT1/lmtt/m/n/10 | Jesus instructs: \OT1/lmtt/
+m/it/10 ``Nor are you to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2158
+\OT1/lmtt/m/it/10 be called instructors, for you have one Instructor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2156--2158
+\OT1/lmtt/m/it/10 the Christ." \OT1/lmtt/m/n/10 Which emphasizes His unique aut
+hority
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2163--2164
+[]\OT1/lmtt/m/n/10 In \OT1/lmtt/b/n/10 Jewish culture of the first century\OT1/
+lmtt/m/n/10 , ``Master"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2163--2164
+\OT1/lmtt/m/n/10 was synonymous with \OT1/lmtt/b/n/10 Rabbi \OT1/lmtt/m/n/10 or
+ \OT1/lmtt/b/n/10 Teacher\OT1/lmtt/m/n/10 , a title of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2165--2166
+[]\OT1/lmtt/m/n/10 The disciples used it to acknowledge \OT1/lmtt/b/n/10 His au
+thority,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2167--2168
+[]\OT1/lmtt/m/n/10 Jesus accepted the title but \OT1/lmtt/b/n/10 redirected its
+ meaning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2167--2168
+\OT1/lmtt/b/n/10 toward servant leadership\OT1/lmtt/m/n/10 , especially when He
+ washed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2190--2191
+[]\OT1/lmtt/m/n/10 Jesus did not directly instruct His disciples to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2191--2192
+[]\OT1/lmtt/m/n/10 The disciples and others naturally used the term to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2193
+[]\OT1/lmtt/m/n/10 Jesus affirmed the title when used, but emphasized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2193
+\OT1/lmtt/m/n/10 that true mastery involves \OT1/lmtt/b/n/10 humility, service,
+ and
+ []
+
+
+
+[64]
+
+[65]
+<resources/images/author.jpg, id=844, 2457.18pt x 3276.24pt>
 File: resources/images/author.jpg Graphic file (type jpg)
 <use resources/images/author.jpg>
-Package pdftex.def Info: resources/images/author.jpg  used on input line 2037.
+Package pdftex.def Info: resources/images/author.jpg  used on input line 2224.
 (pdftex.def)             Requested size: 137.9979pt x 183.9681pt.
 
-Underfull \hbox (badness 5417) in paragraph at lines 2042--2043
+Underfull \hbox (badness 5417) in paragraph at lines 2229--2230
 []\OT1/lmtt/m/n/10 [Future Professor] \OT1/lmr/bx/n/10 Joseph Will-rich
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 2042--2043
+Underfull \hbox (badness 1142) in paragraph at lines 2229--2230
 \OT1/lmr/bx/n/10 Lu-talo \OT1/lmr/m/n/10 is an in-de-pen-dent em-pir-i-cal re-
  []
 
 
 
-[61 <./resources/images/author.jpg>]
+[66 <./resources/images/author.jpg>]
 
-[62]
-Overfull \hbox (4.5394pt too wide) in paragraph at lines 2079--2080
+[67]
+Overfull \hbox (4.5394pt too wide) in paragraph at lines 2266--2267
 []\OT1/lmr/m/n/10 Lutalo, J. W. (2025). \OT1/lmr/bx/n/10 TRANS-FOR-MAT-ICS 101-
 explained \OT1/lmr/m/n/10 (Doc-
  []
 
 
-Overfull \hbox (2.67204pt too wide) in paragraph at lines 2084--2085
+Overfull \hbox (2.67204pt too wide) in paragraph at lines 2271--2272
 \OT1/lmr/bx/n/10 Eval-u-a-tion Meth-ods. []$\OT1/lmtt/m/n/10 https : / / doi . 
 org / 10 . 20944 / preprints202410 .
  []
 
 
-Overfull \hbox (4.86705pt too wide) in paragraph at lines 2088--2089
+Overfull \hbox (4.86705pt too wide) in paragraph at lines 2275--2276
 []\OT1/lmr/m/n/10 Lutalo, J. W. \OT1/lmr/bx/n/10 TEA: Trans-form-ing Ex-e-cutab
 le Alphabet-A Min-
  []
 
 
 
-[63]
-Underfull \hbox (badness 10000) in paragraph at lines 2098--2107
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2098--2107
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2098--2107
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2294
 
  []
 
 
 
-[64]
-<resources/images/figure11.jpg, id=837, 4015.0pt x 3011.25pt>
+[69]
+<resources/images/figure11.jpg, id=893, 4015.0pt x 3011.25pt>
 File: resources/images/figure11.jpg Graphic file (type jpg)
 <use resources/images/figure11.jpg>
-Package pdftex.def Info: resources/images/figure11.jpg  used on input line 2126
+Package pdftex.def Info: resources/images/figure11.jpg  used on input line 2313
 .
 (pdftex.def)             Requested size: 345.0pt x 258.73271pt.
 
 
-[65 <./resources/images/figure11.jpg>]
+[70 <./resources/images/figure11.jpg>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
 usoe.bbl)
-<resources/images/innercover_a.jpeg, id=848, 1027.84pt x 1541.76pt>
+<resources/images/innercover_a.jpeg, id=904, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
-[66]
+[71]
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 2147.
+ 2334.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[67
+[72
 
  <./resources/images/innercover_a.jpeg>]
-<resources/images/innercover_b.jpeg, id=863, 1027.84pt x 1541.76pt>
+<resources/images/innercover_b.jpeg, id=918, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 2155.
+ 2342.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[68
+[73
 
  <./resources/images/innercover_b.jpeg>]
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=870, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=926, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 2165.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 2352.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -4271,7 +4736,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion:
 found PDF version <1.7>, but at most version <1.5> allowed
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 2165.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 2352.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -4282,35 +4747,35 @@ found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=873, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=929, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 2165.
+e 2352.
 (pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 2165.
+e 2352.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 2165.
+e 2352.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 2165.
+e 2352.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 
 
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 2165.
+e 2352.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
-[69
+[74
 
  <./resources/pdfs/backcover.pdf>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
@@ -4321,13 +4786,13 @@ L3 programming layer <2024-07-20>
  ***********
 Package rerunfilecheck Info: File `"JWL 1 Year Chronological Review of Daniel D
 efoe Classic 1719 Novel Robinson Crusoe".out' has not changed.
-(rerunfilecheck)             Checksum: 20A9861E2B7505BACC98A404A9BBB9DE;27936.
+(rerunfilecheck)             Checksum: DF977C227AD3287663E77FF38AC89E6A;29967.
  ) 
 Here is how much of TeX's memory you used:
- 17146 strings out of 473898
- 274479 string characters out of 5736297
+ 17169 strings out of 473898
+ 274783 string characters out of 5736297
  1939960 words of memory out of 5000000
- 39479 multiletter control sequences out of 15000+600000
+ 39488 multiletter control sequences out of 15000+600000
  637189 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,17n,93p,3523b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4349,9 +4814,9 @@ MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
 blic/lm/lmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt8.pfb><C:
 /Program Files/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
 Output written on "JWL 1 Year Chronological Review of Daniel Defoe Classic 1719
- Novel Robinson Crusoe.pdf" (69 pages, 18161963 bytes).
+ Novel Robinson Crusoe.pdf" (74 pages, 18186445 bytes).
 PDF statistics:
- 1045 PDF objects out of 1200 (max. 8388607)
- 236 named destinations out of 1000 (max. 500000)
- 699 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1104 PDF objects out of 1200 (max. 8388607)
+ 250 named destinations out of 1000 (max. 500000)
+ 747 words of extra memory for PDF output out of 10000 (max. 10000000)
 
