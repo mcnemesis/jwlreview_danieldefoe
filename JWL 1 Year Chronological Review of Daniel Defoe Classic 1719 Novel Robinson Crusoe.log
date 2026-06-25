@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  23 JUN 2026 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  25 JUN 2026 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -723,7 +723,7 @@ l Robinson Crusoe.out"'.
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=423, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=487, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 124.
@@ -746,7 +746,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=426, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=490, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
@@ -830,6 +830,12 @@ File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 129.
 
+Overfull \hbox (2.89711pt too wide) in paragraph at lines 130--131
+[]\OT1/lmr/m/n/9 This \OT1/lmr/bx/n/9 mono-graph \OT1/lmr/m/n/9 presents a \OT1
+/lmr/bx/n/9 chrono-log-i-cal lit-er-ary re-view \OT1/lmr/m/n/9 of Daniel
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 132--135
 
  []
@@ -864,12 +870,28 @@ ing Wrecked,
 
 
 
-[6])
+[6]
+Overfull \hbox (3.86891pt too wide) in paragraph at lines 106--106
+ [] [][]\OT1/lmr/bx/n/10 Apr 28, 2026 00:21:09 - Con-cern-ing Trac-ing One's Fa
+m-ily [Roots] 
+ []
+
+
+Overfull \hbox (14.60135pt too wide) in paragraph at lines 112--112
+ [] [][]\OT1/lmr/bx/n/10 May 18, 2026 04:25:46 - Cru-soe's Bat-tle Against Pack
+s of Ravenous 
+ []
+
+
+
+[7])
 \tf@toc=\write5
 \openout5 = `"JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Nove
 l Robinson Crusoe.toc"'.
 
 
+
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 165--166
 []\OT1/lmtt/m/n/10 If you want to be a writer, you must do two things
  []
@@ -891,10 +913,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
 
 
-[7]
-
-[8{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<resources/images/Daniel_Defoe_Kneller_Style.jpg, id=670, 1284.8pt x 1535.7375p
+[9{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<resources/images/Daniel_Defoe_Kneller_Style.jpg, id=762, 1284.8pt x 1535.7375p
 t>
 File: resources/images/Daniel_Defoe_Kneller_Style.jpg Graphic file (type jpg)
 <use resources/images/Daniel_Defoe_Kneller_Style.jpg>
@@ -903,15 +923,17 @@ on input line 193.
 (pdftex.def)             Requested size: 137.9979pt x 164.94795pt.
 
 
-[9 <./resources/images/Daniel_Defoe_Kneller_Style.jpg>]
+[10 <./resources/images/Daniel_Defoe_Kneller_Style.jpg>]
 Overfull \hbox (76.49438pt too wide) in paragraph at lines 225--238
 [] 
  []
 
 
 
-[10{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
-<resources/images/figure3.jpeg, id=712, 1027.84pt x 1027.84pt>
+[11]
+
+[12{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
+<resources/images/figure3.jpeg, id=811, 1027.84pt x 1027.84pt>
 File: resources/images/figure3.jpeg Graphic file (type jpg)
 <use resources/images/figure3.jpeg>
 Package pdftex.def Info: resources/images/figure3.jpeg  used on input line 265.
@@ -919,13 +941,7 @@ Package pdftex.def Info: resources/images/figure3.jpeg  used on input line 265.
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[11]
-
-[12 <./resources/images/figure3.jpeg>]
+[13 <./resources/images/figure3.jpeg>]
 Underfull \hbox (badness 10000) in paragraph at lines 295--296
 []\OT1/lmtt/m/n/10 I Was born in the Year 1632, in the City of York,
  []
@@ -1141,9 +1157,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
 
 
-[13]
-
 [14]
+
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 345--346
 []\OT1/lmtt/m/n/10 the Master seeing some [potential aid]... ordered to
  []
@@ -1303,7 +1319,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
 
 
-[15]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 408--409
 []\OT1/lmtt/m/n/10 I convey'd also a great Lump of Bees-Wax into the
  []
@@ -1365,7 +1381,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
 
 
-[16]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 436--437
 []\OT1/lmtt/m/n/10 I turn'd to the Boy, who they call'd \OT1/lmtt/m/it/10 Xury\
 OT1/lmtt/m/n/10 , and said
@@ -1405,8 +1421,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
 
 
-[17]
-<resources/images/figure1.jpeg, id=764, 1027.84pt x 1027.84pt>
+[18]
+<resources/images/figure1.jpeg, id=857, 1027.84pt x 1027.84pt>
 File: resources/images/figure1.jpeg Graphic file (type jpg)
 <use resources/images/figure1.jpeg>
 Package pdftex.def Info: resources/images/figure1.jpeg  used on input line 461.
@@ -1455,8 +1471,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
 
 
-[18 <./resources/images/figure1.jpeg>]
-<resources/images/figure2.jpeg, id=771, 1027.84pt x 1027.84pt>
+[19 <./resources/images/figure1.jpeg>]
+<resources/images/figure2.jpeg, id=865, 1027.84pt x 1027.84pt>
 File: resources/images/figure2.jpeg Graphic file (type jpg)
 <use resources/images/figure2.jpeg>
 Package pdftex.def Info: resources/images/figure2.jpeg  used on input line 486.
@@ -1489,7 +1505,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
 
 
-[19 <./resources/images/figure2.jpeg>]
+[20 <./resources/images/figure2.jpeg>]
 Underfull \hbox (badness 1762) in paragraph at lines 528--528
 [][][]\OT1/lmr/m/n/8 Refer to a dig-i-tal au-ral de-pic-tion via Mu-seum of MAZ
 -ERA at []$\OT1/lmtt/m/n/8 https : / / t . me /
@@ -1497,7 +1513,7 @@ Underfull \hbox (badness 1762) in paragraph at lines 528--528
 
 
 
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 541--542
 []\OT1/lmtt/m/n/10 In the wee hours of today ( 2am to 5am), I set up
  []
@@ -1669,14 +1685,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 579--580
 
 
 
-[21]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 611--612
 []\OT1/lmtt/m/n/10 I am divided from Mankind, a Solitaire, one banish'd
  []
 
 
 
-[22]
+[23]
 Overfull \hbox (8.27776pt too wide) in paragraph at lines 625--625
 []\OT1/lmr/bx/n/14.4 Feb 17, 2025 08:08:37 - Con-cern-ing Ter-raform-
  []
@@ -1708,7 +1724,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--638
 
 
 
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 672--673
 []\OT1/lmtt/m/n/10 And now it was when I began to keep a Journal of
  []
@@ -1730,7 +1746,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
 
 
-[24]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 708--709
 []\OT1/lmtt/m/n/10 In the next Place, I was at a great Loss for Candle;
  []
@@ -1780,7 +1796,7 @@ Overfull \vbox (1.94351pt too high) has occurred while \output is active []
 
 
 
-[25]
+[26]
 Overfull \hbox (0.96857pt too wide) in paragraph at lines 732--732
 []\OT1/lmr/bx/n/14.4 Feb 20, 2025 03:28:26 - Con-cern-ing Why Man
  []
@@ -1836,7 +1852,7 @@ e I was, I
 
 
 
-[26]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 772--773
 []\OT1/lmtt/m/n/10 I daily read the Word of God, and apply'd all the
  []
@@ -1900,7 +1916,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 772--773
 
 
 
-[27]
+[28]
 Overfull \hbox (5.59213pt too wide) in paragraph at lines 794--794
 \OT1/lmr/bx/n/14.4 por-tance of Knowl-edge of Agri-cul-ture for Sur-
  []
@@ -1952,14 +1968,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
 
 
-[28]
+[29]
 Overfull \hbox (0.21436pt too wide) in paragraph at lines 831--831
 []\OT1/lmr/bx/n/14.4 Apr 27, 2025 23:07:33 - On Clas-si-fy-ing Daniel
  []
 
 
 
-[29]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 852--853
 []\OT1/lmtt/m/n/10 Daniel Defoe (c. 1660-1731) did \OT1/lmtt/b/n/10 not \OT1/lm
 tt/m/n/10 live during
@@ -2081,7 +2097,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 879--880
 
 
 
-[30]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 896--897
 []\OT1/lmtt/m/n/10 This touch'd me sensibly, for I foresaw, that in a
  []
@@ -2193,8 +2209,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 952--953
 
 
 
-[31]
-<resources/images/figure4.jpeg, id=877, 1027.84pt x 1027.84pt>
+[32]
+<resources/images/figure4.jpeg, id=970, 1027.84pt x 1027.84pt>
 File: resources/images/figure4.jpeg Graphic file (type jpg)
 <use resources/images/figure4.jpeg>
 Package pdftex.def Info: resources/images/figure4.jpeg  used on input line 977.
@@ -2226,7 +2242,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 995--996
 
 
 
-[32]
+[33]
 Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
 []\OT1/lmtt/m/n/10 Now I began to construe the Words mentioned above,
  []
@@ -2322,9 +2338,9 @@ sing, than
 
 
 
-[33 <./resources/images/figure4.jpeg>]
+[34 <./resources/images/figure4.jpeg>]
 
-[34]
+[35]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1044.
@@ -2412,9 +2428,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1093--1094
 
 
 
-[35]
-
 [36]
+
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 1127--1128
 []\OT1/lmtt/m/n/10 From the fourteenth of August to the twenty sixth,
  []
@@ -2472,7 +2488,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1127--1128
 
 
 
-[37]
+[38]
 Overfull \hbox (18.65114pt too wide) in paragraph at lines 1166--1166
 []\OT1/lmr/bx/n/14.4 Aug 23, 2025 21:57:31 - Con-cern-ing How Robin-
  []
@@ -2579,7 +2595,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1225--1226
 
 
 
-[38]
+[39]
 Underfull \hbox (badness 10000) in paragraph at lines 1251--1252
 []\OT1/lmtt/m/n/10 That if I had kill'd a Goat, or a Fowl, by any
  []
@@ -2601,7 +2617,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1251--1252
 
 
 
-[39]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
 []\OT1/lmtt/m/n/10 Thus we never see the true State of our Condition,
  []
@@ -2645,249 +2661,249 @@ Underfull \hbox (badness 10000) in paragraph at lines 1309--1310
 
 
 
-[40]
-
 [41]
-Overfull \hbox (4.78926pt too wide) in paragraph at lines 1333--1333
+
+[42]
+Overfull \hbox (4.78926pt too wide) in paragraph at lines 1334--1334
 \OT1/lmr/bx/n/14.4 e-vance of Keep-ing Non-Human Part-ners Such
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1346--1347
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
 []\OT1/lmtt/m/n/10 But judge you, if you can, that read my Story, what a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1346--1347
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
 \OT1/lmtt/m/n/10 Surprize I must be in, when I was wak'd out of my Sleep
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1346--1347
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
 \OT1/lmtt/m/n/10 by a Voice calling me by my Name several times, Robin,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1346--1347
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
 \OT1/lmtt/m/n/10 Robin, Robin Crusoe, poor Robin Crusoe, where are you
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 []\OT1/lmtt/m/n/10 dozing between sleeping and waking, thought I dream'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 that some Body spoke to me: But as the Voice continu'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 to repeat Robin Crusoe, Robin Crusoe, at last I began
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 to wake more perfectly, and was at first dreadfully
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 frighted, and started up in the utmost Consternation:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 But no sooner were my Eyes open, but I saw my Poll
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 sitting on the Top of the Hedge; and immediately knew
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 that it was he that spoke to me; for just in such
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 bemoaning Language I had used to talk to him, and teach
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 him; and he had learn'd it so perfectly, that he would
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 sit upon my Finger, and lay his Bill close to my Face,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 and cry, Poor Robin Crusoe, Where are you? Where have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1365
 \OT1/lmtt/m/n/10 you been? How come you here? And such things as I had
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 []\OT1/lmtt/m/n/10 However, even though I knew it was the Parrot, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 that indeed it could be no Body else, it was a good
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 while before I could compose my self: First, I was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 amazed how the Creature got thither, and then, how he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 should just keep about the Place, and no where else:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 But as I was well satisfied it could be no Body but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 honest Poll, I got it over; and holding out my Hand,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 and calling him by his Name Poll, the sociable Creature
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 came to me, and sat upon my Thumb, as he used to do,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 and continu'd talking to me, Poor Robin Crusoe, and how
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 did I come here? and where had I been? just as if he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 \OT1/lmtt/m/n/10 had been overjoy'd to see me again; and so I carry'd him
  []
 
 
 
-[42]
-
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 []\OT1/lmtt/m/n/10 In this Government of my Temper, I remain'd near a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \OT1/lmtt/m/n/10 Year, liv'd a very sedate retir'd Life, as you may well
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \OT1/lmtt/m/n/10 suppose; and my Thoughts being very much composed as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \OT1/lmtt/m/n/10 to my Condition, and fully comforted in resigning my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \OT1/lmtt/m/n/10 self to the Dispositions of Providence, I thought I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
 \OT1/lmtt/m/n/10 liv'd really very happily in all things, except that of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 []\OT1/lmtt/m/n/10 But I think I was never more vain of my own
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 Performance, or more joyful for any thing I found out,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 than for my being able to make a Tobacco-Pipe. And
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 tho' it was a very ugly clumsy thing, when it was done,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 and only burnt red like other Earthen Ware, yet as it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 was hard and firm, and would draw the Smoke, I was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 exceedingly comforted with it, for I had been always
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 used to smoke, and there were Pipes in the Ship, but I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 forgot them at first, not knowing that there was Tobacco
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1438--1439
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 \OT1/lmtt/m/n/10 in the Island; and afterwards, when I search'd the Ship
  []
 
 
 
-[44]
-<resources/images/figure5.jpeg, id=986, 1027.84pt x 1027.84pt>
+[45]
+<resources/images/figure5.jpeg, id=1079, 1027.84pt x 1027.84pt>
 File: resources/images/figure5.jpeg Graphic file (type jpg)
 <use resources/images/figure5.jpeg>
-Package pdftex.def Info: resources/images/figure5.jpeg  used on input line 1453
+Package pdftex.def Info: resources/images/figure5.jpeg  used on input line 1454
 .
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
@@ -2895,590 +2911,590 @@ Package pdftex.def Info: resources/images/figure5.jpeg  used on input line 1453
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 []\OT1/lmtt/m/n/10 At length I set three Traps in one Night, and going
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 \OT1/lmtt/m/n/10 the next Morning I found them all standing, and yet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 \OT1/lmtt/m/n/10 the Bait eaten and gone: This was very discouraging.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 \OT1/lmtt/m/n/10 However, I alter'd my Trap, and, not to trouble you with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 \OT1/lmtt/m/n/10 Particulars, going one Morning to see my Trap, I found
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1469--1470
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
 \OT1/lmtt/m/n/10 in one of them a large old He-Goat, and in one of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 []\OT1/lmtt/m/n/10 As to the old one, I knew not what to do with him, he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 was so fierce I durst not go into the Pit to him; that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 is to say, to go about to bring him away alive, which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 was what I wanted. I could have kill'd him, but that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 was not my Business, nor would it answer my End. So
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 I e'en let him out, and he ran away as if he had been
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 frighted out of his Wits: But I had forgot then what I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 learn'd afterwards, that Hunger will tame a Lyon. If I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 had let him stay there three or four Days without Food,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 and then have carry'd him some Water to drink, and then
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 \OT1/lmtt/m/n/10 a little Corn, he would have been as tame as one of the
  []
 
 
 
-[45]
+[46]
 
-[46 <./resources/images/figure5.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+[47 <./resources/images/figure5.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 []\OT1/lmtt/m/n/10 It was a good while before they wou'd feed, but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 \OT1/lmtt/m/n/10 throwing them some sweet Corn, it tempted them and they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 \OT1/lmtt/m/n/10 began to be tame; and now I found that if I expected to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 \OT1/lmtt/m/n/10 supply my self with Goat-Flesh when I had no Powder or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 \OT1/lmtt/m/n/10 Shot left, breeding some up tame was my only way, when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1512--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
 \OT1/lmtt/m/n/10 perhaps I might have them about my House like a Flock of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 []\OT1/lmtt/m/n/10 But then it presently occurr'd to me, that I must
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 \OT1/lmtt/m/n/10 keep the tame from the wild, or else they would always
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 \OT1/lmtt/m/n/10 run wild when they grew up, and the only Way for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 \OT1/lmtt/m/n/10 this was to have some enclosed Piece of Ground, well
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 \OT1/lmtt/m/n/10 fenc'd either with Hedge or Pale, to keep them in so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
 \OT1/lmtt/m/n/10 effectually, that those within might not break out, or
  []
 
 
 
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 []\OT1/lmtt/m/n/10 But this was not all, for now I not only had Goats
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 \OT1/lmtt/m/n/10 Flesh to feed on when I pleas'd, but Milk too, a thing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 \OT1/lmtt/m/n/10 which indeed in my beginning I did not so much as think
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 \OT1/lmtt/m/n/10 of, and which, when it came into my Thoughts, was really
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1554--1555
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 \OT1/lmtt/m/n/10 an agreeable Surprize. For now I set up my Dairy, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 []\OT1/lmtt/m/n/10 And as Nature, who gives Supplies of Food to every
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 \OT1/lmtt/m/n/10 Creature, dictates even naturally how to make use of it;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 \OT1/lmtt/m/n/10 so I that had never milk'd a Cow, much less a Goat, or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 \OT1/lmtt/m/n/10 seen Butter or Cheese made, very readily and handily,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 \OT1/lmtt/m/n/10 tho' after a great many Essays and Mis-carriages, made
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1572
 \OT1/lmtt/m/n/10 me both Butter and Cheese at last, and never wanted it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
 []\OT1/lmtt/m/n/10 But had any one in England been to meet such a Man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
 \OT1/lmtt/m/n/10 as I was, it must either have frighted them, or rais'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
 \OT1/lmtt/m/n/10 a great deal of Laughter; and as I frequently stood
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
 \OT1/lmtt/m/n/10 still to look at my self, I could not but smile at the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1604
 \OT1/lmtt/m/n/10 Notion of my travelling through Yorkshire with such an
  []
 
 
 
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
 []\OT1/lmtt/m/n/10 I had a great high shapeless Cap, made of a Goat's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
 \OT1/lmtt/m/n/10 Skin, with a Flap hanging down behind, as well to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
 \OT1/lmtt/m/n/10 keep the Sun from me, as to shoot the Rain of f from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1620
 \OT1/lmtt/m/n/10 running into my Neck; nothing being so hurtful in these
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 []\OT1/lmtt/m/n/10 I had a short Jacket of Goat-Skin, the Skirts coming
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 down to about the middle of my Thighs; and a Pair of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 open-knee'd Breeches of the same, the Breeches were made
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 of the Skin of an old He-goat, whose Hair hung down such
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 a Length on either Side, that like Pantaloons it reach'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 to the middle of my Legs; Stockings and Shoes I had
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 none, but had made me a Pair of some-things, I scarce
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 know what to call them, like Buskins to flap over my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 Legs, and lace on either Side like Spatter-dashes; but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1635--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 \OT1/lmtt/m/n/10 of a most barbarous Shape, as indeed were all the rest
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 []\OT1/lmtt/m/n/10 I had on a broad Belt of Goat's-Skin dry'd, which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 I drew together with two Thongs of the same, instead
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 of Buckles, and in a kind of a Frog on either Side of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 this. Instead of a Sword and a Dagger, hung a little
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 Saw and a Hatchet, one on one Side, one on the other. I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 had another Belt not so broad, and fasten'd in the same
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 Manner, which hung over my Shoulder; and at the End of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 it, under my left Arm, hung two Pouches, both made of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 Goat's-Skin too; in one of which hung my Powder, in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 other my Shot: At my Back I carry'd my Basket, on my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 Shoulder my Gun, and over my Head a great clumsy ugly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
 \OT1/lmtt/m/n/10 Goat-Skin Umbrella, but which, after all, was the most
  []
 
 
 
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 1679--1680
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1681
 []\OT1/lmtt/m/n/10 Then the eyes of both of them were opened, and they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1679--1680
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1681
 \OT1/lmtt/m/n/10 realized they were naked; so they sewed fig leaves
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
+Underfull \hbox (badness 10000) in paragraph at lines 1697--1698
 []\OT1/lmtt/m/n/10 The Lord God made garments of skin for Adam and his
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 []\OT1/lmtt/m/n/10 Humans began wearing clothes tens of thousands of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 \OT1/lmtt/m/n/10 years ago, most likely between 83,000 and 170,000
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 \OT1/lmtt/m/n/10 years ago, as a survival adaptation to colder climates.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 \OT1/lmtt/m/n/10 Evidence comes not from preserved garments but from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1718--1719
 \OT1/lmtt/m/n/10 genetic studies of clothing lice, which evolved once
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1721
 []\OT1/lmtt/m/n/10 As anatomically modern humans migrated out of Africa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1721
 \OT1/lmtt/m/n/10 into colder regions, clothing became essential for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
+Underfull \hbox (badness 10000) in paragraph at lines 1720--1721
 \OT1/lmtt/m/n/10 warmth and protection. Clothes shielded against rain,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1721--1722
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
 []\OT1/lmtt/m/n/10 Over time, clothing also became a marker of identity,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 []\OT1/lmtt/m/n/10 Genetic analysis shows clothing lice diverged from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 head lice 83,000-170,000 years ago, indicating humans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 were already wearing clothes by then. Scrappers used
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 for preparing animal hides date back to $\OMS/lmsy/m/n/10 ^^X$
 \OT1/lmtt/m/n/10 780,000 years
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 ago, though this doesn't prove clothing use --- hides
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 may have been used for shelter. The earliest woven
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1723--1724
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1725
 \OT1/lmtt/m/n/10 textiles appear much later, around 30,000 years ago,
  []
 
 
 
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 []\OT1/lmtt/m/n/10 It happen'd one Day about Noon going towards my Boat,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 I was exceedingly surpriz'd with the Print of a Man's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 naked Foot on the Shore, which was very plain to be seen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 in the Sand: I stood like one Thunder-struck, or as if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 I had seen an Apparition; I listen'd, I look'd round me,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 I could hear nothing, nor see any Thing, I went up to a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 rising Ground to look farther, I went up the Shore and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 down the Shore, but it was all one, I could see no other
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 Impression but that one, I went to it again to see if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 there were any more, and to observe if it might not be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 my Fancy; but there was no Room for that, for there was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 exactly the very Print of a Foot, Toes, Heel, and every
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1747--1748
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1749
 \OT1/lmtt/m/n/10 Part of a Foot; how it came thither, I knew not, nor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 []\OT1/lmtt/m/n/10 But after innumerable fluttering Thoughts, like a Man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 perfectly confus'd and out of my self, I came Home to my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 Fortification, not feeling, as we say, the Ground I went
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 on, but terrify'd to the last Degree, looking behind
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 me at every two or three Steps, mistaking every Bush
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 and Tree, and fancying every Stump at a Distance to be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 a Man; nor is it possible to describe how many various
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 Shapes affrighted Imagination represented Things to me
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 in, how many wild Ideas were found every Moment in my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1766
 \OT1/lmtt/m/n/10 Fancy, and what strange unaccountable Whimsies came into
  []
 
 
 
-[51]
-<resources/images/figure6.jpeg, id=1029, 1027.84pt x 1027.84pt>
+[52]
+<resources/images/figure6.jpeg, id=1122, 1027.84pt x 1027.84pt>
 File: resources/images/figure6.jpeg Graphic file (type jpg)
 <use resources/images/figure6.jpeg>
-Package pdftex.def Info: resources/images/figure6.jpeg  used on input line 1779
+Package pdftex.def Info: resources/images/figure6.jpeg  used on input line 1780
 .
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
@@ -3486,2844 +3502,3825 @@ Package pdftex.def Info: resources/images/figure6.jpeg  used on input line 1779
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 []\OT1/lmtt/m/n/10 I slept none that Night; the farther I was from the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 Occasion of my Fright, the greater my Apprehensions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 were, which is something contrary to the Nature of such
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 Things, and especially to the usual Practice of all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 Creatures in Fear: But I was so embarrass'd with my own
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 frightful Ideas of the Thing, that I form'd nothing but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
 \OT1/lmtt/m/n/10 dismal Imaginations to my self, even tho' I was now a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 []\OT1/lmtt/m/n/10 Sometimes I fancy'd it must be the Devil; and Reason
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 joyn'd in with me upon this Supposition: For how should
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 any other Thing in human Shape come into the Place?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 Where was the Vessel that brought them? What Marks
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 was there of any other Footsteps? And how was it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 possible a Man should come there? But then to think
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/b/n/10 that Satan should take human shape \OT1/lmtt/m/n/10 upon him i
 n such a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 Place where there could be no manner of Occasion for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 it, but to leave the Print of his Foot behind him, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 that even for no Purpose too, for he could not be sure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 I should see it; this was an Amusement the other Way; I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 consider'd that the Devil might have found out abundance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
 \OT1/lmtt/m/n/10 of other Ways to have terrify'd me than this of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 []\OT1/lmtt/m/n/10 That as I liv'd quite on the other Side of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 Island, he would never have been so simple to leave a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 Mark in a Place where 'twas Ten Thousand to one whether
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 I should ever see it or not, and in the Sand too, which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 the first Surge of the Sea upon a high Wind would have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 defac'd entirely: All this seem'd inconsistent with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1803--1804
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
 \OT1/lmtt/m/n/10 the Thing itself, and with all the Notions we usually
  []
 
 
 
-[52]
+[53]
 
-[53 <./resources/images/figure6.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1833--1834
+[54 <./resources/images/figure6.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1835
 []\OT1/lmtt/m/n/10 that to have seen one of my own Species, would have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1833--1834
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1835
 \OT1/lmtt/m/n/10 seem'd to me a Raising me from Death to Life, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1833--1834
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1835
 \OT1/lmtt/m/n/10 the greatest Blessing that Heaven itself, next to the
  []
 
 
 
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 []\OT1/lmtt/m/n/10 Words of the Scripture came into my Thoughts, \OT1/lmtt/m/it
 /10 Call
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/it/10 upon me in the Day of Trouble, and I will deliver, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/it/10 thou shalt glorify me. \OT1/lmtt/m/n/10 Upon this, rising che
 arfully
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/n/10 out of my Bed, my Heart was not only comforted, but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/n/10 I was guided and encourag'd to pray earnestly to God
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/n/10 for Deliverance: When I had done praying, I took up
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/n/10 my Bible, and opening it to read, the first Words that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/n/10 presented to me, were, \OT1/lmtt/m/it/10 Wait on the Lord, and
  be of good
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
 \OT1/lmtt/m/it/10 Cheer, and he shall strengthen thy Heart; wait, I say,
  []
 
 
 
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 []\OT1/lmtt/m/n/10 I had dropp'd a good Design, which I had once bent my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 Thoughts too much upon; and that was, to try if I could
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 not make some of my Barley into Malt, and then try to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 brew my self some Beer: This was really a whimsical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 Thought, and I reprov'd my self often for the Simplicity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 of it; for I presently saw there would be the want of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 several Things necessary to the making my Beer, that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 it would be impossible for me to supply; as First,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 Casks to preserve it in, which was a Thing, that as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 I have observ'd already, I cou'd never compass; no,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 though I spent not many Days, but Weeks, nay, Months in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 attempting it, but to no purpose. In the next Place, I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 had no Hops to make it keep, no Yeast to make it work,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 no Copper or Kettle to make it boil; and yet all these
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 Things, notwithstanding, I verily believe, had not these
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 Things interven'd, I mean the Frights and Terrors I was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 in about the Savages, I had undertaken it, and perhaps
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 brought it to pass too; for I seldom gave any Thing over
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1898--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
 \OT1/lmtt/m/n/10 without accomplishing it, when I once had it in my Head
  []
 
 
 
-[56]
-
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 []\OT1/lmtt/m/n/10 Sometimes I contriv'd to dig a Hole under the Place
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 where they made their Fire, and put in five or six Pound
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 of Gun-powder, which when they kindled their Fire, would
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 consequently take Fire, and blow up all that was near
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 it; but as in the first Place I should be very loth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 to wast so much Powder upon them, my Store being now
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 within the Quantity of one Barrel; so neither could I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 be sure of its going off , at any certain Time, when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 it might surprise them, and at best, that it would do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 little more than just blow the Fire about their Ears
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 and fright them, but not sufficient to make them forsake
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 the Place; so I laid it aside, and then propos'd, that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 I would place my self in Ambush, in some convenient
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 Place, with my three Guns, all double loaded; and in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 middle of their bloody Ceremony, let fly at them, when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 I should be sure to kill or wound perhaps two or three
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 at every shoot; and then falling in upon them with my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
 \OT1/lmtt/m/n/10 three Pistols, and my Sword, I made no doubt, but that
  []
 
 
 
-[58]
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 []\OT1/lmtt/m/n/10 In the next Place it occurr'd to me, that albeit the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Usage they thus gave one another, was thus brutish and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 inhuman; yet it was really nothing to me: These People
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 had done me no Injury. That if they attempted me, or I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 saw it necessary for my immediate Preservation to fall
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 upon them, something might be said for it; but that as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 I was yet out of their Power, and they had really no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Knowledge of me, and consequently no Design upon me; and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 therefore it could not be just for me to fall upon them.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 That this would justify the Conduct of the Spaniards in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 all their Barbarities practis'd in America, and where
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 they destroy'd Millions of these People, who however
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 they were Idolaters and Barbarians, and had several
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 bloody and barbarous Rites in their Customs, such as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 sacrificing human Bodies to their Idols, were yet, as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 to the Spaniards, very innocent People; and that the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 rooting them out of the Country, is spoken of with the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 utmost Abhorrence and Detestation, by even the Spaniards
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 themselves, at this Time; and by all other Christian
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Nations of Europe, as a meer Butchery, a bloody and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 unnatural Piece of Cruelty, unjustifiable either to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 God or Man; and such, as for which the very Name of a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Spaniard is reckon'd to be frightful and terrible to all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 People of Humanity, or of Christian Compassion: As if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 the Kingdom of Spain were particularly Eminent for the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Product of a Race of Men, who were without Principles
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 of Tenderness, or the common Bowels of Pity to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1961--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 \OT1/lmtt/m/n/10 Miserable, which is reckon'd to be a Mark of generous
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 []\OT1/lmtt/m/n/10 But it was not to be; either their Fate or mine, or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 both, forbid it; for till the last Year of my being on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 this Island, I never knew whether any were saved out of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 that Ship or no; and had only the Affliction some Days
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 after, to see the Corps of a drownded Boy come on Shore,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 at the End of the Island which was next the Shipwreck:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 He had on no Cloaths, but a Seaman's Wastcoat, a pair
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 of open knee'd Linnen Drawers, and a blew Linnen Shirt;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 but nothing to direct me so much as to guess what Nation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 he was of: He had nothing in his Pocket, but two Pieces
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1992--1993
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1994
 \OT1/lmtt/m/n/10 of Eight, and a Tobacco Pipe; the last was to me of ten
  []
 
 
 
-[59]
-Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2025
 []\OT1/lmtt/m/n/10 it is very rare that the Providence of God casts us
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2025
 \OT1/lmtt/m/n/10 into any Condition of Life so low, or any Misery so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2025
 \OT1/lmtt/m/n/10 great, but we may see something or other to be thankful
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2025
 \OT1/lmtt/m/n/10 for; and may see others in worse Circumstances than our
  []
 
 
 
-[60]
-<resources/images/figure7.jpeg, id=1088, 1027.84pt x 1027.84pt>
+[61]
+<resources/images/figure7.jpeg, id=1182, 1027.84pt x 1027.84pt>
 File: resources/images/figure7.jpeg Graphic file (type jpg)
 <use resources/images/figure7.jpeg>
-Package pdftex.def Info: resources/images/figure7.jpeg  used on input line 2041
+Package pdftex.def Info: resources/images/figure7.jpeg  used on input line 2042
 .
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
-Overfull \hbox (10.02628pt too wide) in paragraph at lines 2049--2050
+Overfull \hbox (10.02628pt too wide) in paragraph at lines 2050--2051
 []\OT1/lmr/m/n/10 I hap-pened to be brows-ing through a sur-pris-ingly long lis
 t of locally-accessible[][][]
  []
 
 
 
-[61 <./resources/images/figure7.jpeg>]
-
-[62]
-<resources/images/figure8.jpg, id=1111, 2890.8pt x 2890.8pt>
-File: resources/images/figure8.jpg Graphic file (type jpg)
-<use resources/images/figure8.jpg>
-Package pdftex.def Info: resources/images/figure8.jpg  used on input line 2067.
-
-(pdftex.def)             Requested size: 345.0pt x 344.9843pt.
-
+[62 <./resources/images/figure7.jpeg>]
 
 [63]
-
-[64 <./resources/images/figure8.jpg>]
-<resources/images/figure9.jpg, id=1125, 2890.8pt x 2890.8pt>
-File: resources/images/figure9.jpg Graphic file (type jpg)
-<use resources/images/figure9.jpg>
-Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2082.
+<resources/images/figure8.jpg, id=1204, 2890.8pt x 2890.8pt>
+File: resources/images/figure8.jpg Graphic file (type jpg)
+<use resources/images/figure8.jpg>
+Package pdftex.def Info: resources/images/figure8.jpg  used on input line 2068.
 
 (pdftex.def)             Requested size: 345.0pt x 344.9843pt.
 
 
-[65]
+[64]
 
-[66 <./resources/images/figure9.jpg>]
-<resources/images/figure10.jpg, id=1138, 4015.0pt x 3011.25pt>
+[65 <./resources/images/figure8.jpg>]
+<resources/images/figure9.jpg, id=1218, 2890.8pt x 2890.8pt>
+File: resources/images/figure9.jpg Graphic file (type jpg)
+<use resources/images/figure9.jpg>
+Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2083.
+
+(pdftex.def)             Requested size: 345.0pt x 344.9843pt.
+
+
+[66]
+
+[67 <./resources/images/figure9.jpg>]
+<resources/images/figure10.jpg, id=1232, 4015.0pt x 3011.25pt>
 File: resources/images/figure10.jpg Graphic file (type jpg)
 <use resources/images/figure10.jpg>
-Package pdftex.def Info: resources/images/figure10.jpg  used on input line 2096
+Package pdftex.def Info: resources/images/figure10.jpg  used on input line 2097
 .
 (pdftex.def)             Requested size: 345.0pt x 258.73271pt.
 
 
-[67 <./resources/images/figure10.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+[68 <./resources/images/figure10.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 []\OT1/lmtt/m/n/10 But there was more work to do yet, for I perceived
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 the Savage who I knock'd down, was not kill'd, but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 stunn'd with the blow, and began to come to himself;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 so I pointed to him, and showing him the Savage, that he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 was not dead; \OT1/lmtt/b/n/10 upon this he spoke some Words t
 o me, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 though I could not understand them, yet I thought they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 were pleasant to hear, for they were the first sound
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 of a Man's Voice, that I had heard, my own excepted,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 for above Twenty Five Years. \OT1/lmtt/m/n/10 But there was no
  time for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 such Reflections now, the Savage who was knock'd down
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 recover'd himself so far, as to sit up upon the Ground,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 and I perceived that my Savage began to be afraid; but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 when I saw that, I presented my other Piece at the Man,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 as if I would shoot him, upon this \OT1/lmtt/b/n/10 my Savage\
 OT1/lmtt/m/n/10 , for so I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 call him now, made a Motion to me to lend him my Sword,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 which hung naked in a Belt by my side; so I did: he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 no sooner had it, but he runs to his Enemy, and at one
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 blow cut off his Head as cleaverly, no Executioner in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 Germany, could have done it sooner or better; which
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 I thought very strange, for one who I had Reason to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 believe never saw a Sword in his Life before, except
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 their own Wooden Swords; however it seems, as I learn'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 afterwards, \OT1/lmtt/b/n/10 they make their Wooden Swords so 
 sharp, so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 heavy, and the Wood is so hard, that they will cut off
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/b/n/10 Heads even with them\OT1/lmtt/m/n/10 , ay and Arms, and that a
 t one blow
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 too; when he had done this, he comes laughing to me in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 Sign of Triumph, and brought me the Sword again, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 with abundance of Gestures which I did not understand,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2123
 \OT1/lmtt/m/n/10 laid it down with the Head of the Savage, that he had
  []
 
 
 
-[68]
-Overfull \hbox (0.78067pt too wide) in paragraph at lines 2141--2141
+[69]
+Overfull \hbox (0.78067pt too wide) in paragraph at lines 2142--2142
 \OT1/lmr/bx/n/14.4 Stun-ning Beauty of His Newly Ac-quired Man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 []\OT1/lmtt/m/n/10 He was a comely handsome Fellow, perfectly well made;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 with straight strong Limbs, not too large; tall and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 well shap'd, and as I reckon, about twenty six Years of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 Age. He had a very good Countenance, not a fierce and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 surly Aspect; but seem'd to have something very manly in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 his Face, and yet he had all the Sweetness and Softness
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 of an European in his Countenance too, especially when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 he smil'd. His Hair was long and black, not curl'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 like Wool; his Forehead very high, and large, and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 great Vivacity and sparkling Sharpness in his Eyes. The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 Colour of his Skin was not quite black, but very tawny;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 and yet not of an ugly yellow nauseous tawny, as the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 Brasilians, and Virginians, and other Natives of America
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 are; but of a bright kind of a dun olive Colour, that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 had in it something very agreeable; tho' not very easy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 to describe. His Face was round, and plump; his Nose
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 small, not flat like the Negroes, a very good Mouth,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2152--2153
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 \OT1/lmtt/m/n/10 thin Lips, and his fine Teeth well set, and white as
  []
 
 
 
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 []\OT1/lmtt/m/n/10 At last he lays his Head flat upon the Ground, close
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 to my Foot, and sets my other Foot upon his Head, as he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 had done before; and after this, made all the Signs to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 me of Subjection, Servitude, and Submission imaginable,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 to let me know, how he would serve me as long as he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 liv'd; I understood him in many Things, and let him
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 know, I was very well pleas'd with him; in a little Time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 I began to speak to him, and teach him to speak to me;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 and \OT1/lmtt/b/n/10 first, I made him know his Name should be
  Friday,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/b/n/10 which was the Day I sav'd his Life\OT1/lmtt/m/n/10 ; I call'd 
 him so for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 the Memory of the Time; I likewise taught him to say
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 Master, and then let him know, that was to be my Name; I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+Underfull \hbox (badness 10000) in paragraph at lines 2189--2190
 \OT1/lmtt/m/n/10 likewise taught him to say YES and NO, and to know the
  []
 
 
 
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 2216--2217
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 2217--2218
 []\OT1/lmtt/m/n/10 Jesus was often addressed as ``Master" by His
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2216--2217
+Underfull \hbox (badness 10000) in paragraph at lines 2217--2218
 \OT1/lmtt/m/n/10 disciples, but He did not explicitly command them to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2216--2217
+Underfull \hbox (badness 10000) in paragraph at lines 2217--2218
 \OT1/lmtt/m/n/10 use that title. Instead, He acknowledged and accepted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2216--2217
+Underfull \hbox (badness 10000) in paragraph at lines 2217--2218
 \OT1/lmtt/m/n/10 it when they did, affirming His role as Teacher and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2226
 []\OT1/lmtt/b/n/10 Luke 5:5 \OT1/lmtt/m/n/10 | Simon Peter says: \OT1/lmtt/m/it
 /10 ``Master, we have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2226
 \OT1/lmtt/m/it/10 worked hard all night and haven't caught anything.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2226
 \OT1/lmtt/m/it/10 But because you say so, I will let down the nets."
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
+Underfull \hbox (badness 10000) in paragraph at lines 2224--2226
 \OT1/lmtt/m/n/10 Here, ``Master" reflects obedience to Jesus'
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2227--2229
+Underfull \hbox (badness 10000) in paragraph at lines 2228--2230
 []\OT1/lmtt/b/n/10 Luke 8:24 \OT1/lmtt/m/n/10 | During the storm, the disciples
  cry:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2227--2229
+Underfull \hbox (badness 10000) in paragraph at lines 2228--2230
 \OT1/lmtt/m/it/10 ``Master, Master, we are perishing!" \OT1/lmtt/m/n/10 Thus th
 ey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
 []\OT1/lmtt/b/n/10 John 13:13-14 \OT1/lmtt/m/n/10 | Jesus Himself says: \OT1/lm
 tt/m/it/10 ``You call Me
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
 \OT1/lmtt/m/it/10 Teacher and Lord, and rightly so, for that is what
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
 \OT1/lmtt/m/it/10 I am." \OT1/lmtt/m/n/10 He thus affirms the titles given to H
 im,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
+Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
 \OT1/lmtt/m/n/10 including ``Master," but frames them in terms of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2238
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2239
 []\OT1/lmtt/b/n/10 Matthew 23:10 \OT1/lmtt/m/n/10 | Jesus instructs: \OT1/lmtt/
 m/it/10 ``Nor are you to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2238
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2239
 \OT1/lmtt/m/it/10 be called instructors, for you have one Instructor,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2238
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2239
 \OT1/lmtt/m/it/10 the Christ." \OT1/lmtt/m/n/10 Which emphasizes His unique aut
 hority
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2243--2244
+Underfull \hbox (badness 10000) in paragraph at lines 2244--2245
 []\OT1/lmtt/m/n/10 In \OT1/lmtt/b/n/10 Jewish culture of the first century\OT1/
 lmtt/m/n/10 , ``Master"
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2243--2244
+Underfull \hbox (badness 10000) in paragraph at lines 2244--2245
 \OT1/lmtt/m/n/10 was synonymous with \OT1/lmtt/b/n/10 Rabbi \OT1/lmtt/m/n/10 or
  \OT1/lmtt/b/n/10 Teacher\OT1/lmtt/m/n/10 , a title of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2245--2246
+Underfull \hbox (badness 10000) in paragraph at lines 2246--2247
 []\OT1/lmtt/m/n/10 The disciples used it to acknowledge \OT1/lmtt/b/n/10 His au
 thority,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2247--2248
+Underfull \hbox (badness 10000) in paragraph at lines 2248--2249
 []\OT1/lmtt/m/n/10 Jesus accepted the title but \OT1/lmtt/b/n/10 redirected its
  meaning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2247--2248
+Underfull \hbox (badness 10000) in paragraph at lines 2248--2249
 \OT1/lmtt/b/n/10 toward servant leadership\OT1/lmtt/m/n/10 , especially when He
  washed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2270--2271
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
 []\OT1/lmtt/m/n/10 Jesus did not directly instruct His disciples to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
+Underfull \hbox (badness 10000) in paragraph at lines 2272--2273
 []\OT1/lmtt/m/n/10 The disciples and others naturally used the term to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2272--2273
+Underfull \hbox (badness 10000) in paragraph at lines 2273--2274
 []\OT1/lmtt/m/n/10 Jesus affirmed the title when used, but emphasized
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2272--2273
+Underfull \hbox (badness 10000) in paragraph at lines 2273--2274
 \OT1/lmtt/m/n/10 that true mastery involves \OT1/lmtt/b/n/10 humility, service,
  and
  []
 
 
 
-[71]
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 []\OT1/lmtt/m/n/10 The Place was cover'd with humane Bones, the Ground
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 dy'd with their Blood, great Pieces of Flesh left here
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 and there, half eaten, mangl'd and scorch'd; and in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 short, all the Tokens of the triumphant Feast they had
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 been making there, after a Victory over their Enemies; I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 saw three Skulls, five Hands, and the Bones of three or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 four Legs and Feet, and abundance of other Parts of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 Bodies; and Friday, by his Signs, made me understand,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 that they brought over four Prisoners to feast upon;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 that three of them were eaten up, and that he, pointing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 to himself, was the fourth: That there had been a great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 Battle between them, and their next King, whose Subjects
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 it seems he had been one of; and that they had taken
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 a great Number of Prisoners, all which were carry'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 to several Places by those that had taken them in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
 \OT1/lmtt/m/n/10 Fight, in order to feast upon them, as was done here by
  []
 
 
 
-[72]
-
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 2341--2342
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 2342--2343
 []\OT1/lmtt/m/n/10 Take, eat; this is my body... Drink of it, all of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2341--2342
+Underfull \hbox (badness 10000) in paragraph at lines 2342--2343
 \OT1/lmtt/m/n/10 you; for this is my blood of the covenant, which is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2358--2359
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2360
 []\OT1/lmtt/m/n/10 This is my body, which is for you; do this in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2358--2359
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2360
 \OT1/lmtt/m/n/10 remembrance of me... This cup is the new covenant in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2358--2359
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2360
 \OT1/lmtt/m/n/10 my blood. Whenever you drink it, do this as a memorial
  []
 
 
 
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 []\OT1/lmtt/m/n/10 I sometimes was led too far to invade \OT1/lmtt/b/n/10 the S
 overaignty
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/b/n/10 of Providence, and as it were arraign the Justice of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/b/n/10 so arbitrary a Disposition of Things, that should hide
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/b/n/10 that Light from some, and reveal it to others, and yet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/b/n/10 expect a like Duty from both\OT1/lmtt/m/n/10 : But I shut it u
 p, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 check'd my Thoughts with this Conclusion, (1st) That
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 we did not know by what Light and Law these should be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 Condemn'd; but that as God was necessarily, and by the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 the Nature of his Being, infinitely Holy and Just, so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 it could not be, but that if these Creatures were all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 sentenc'd to Absence from himself, it was on account
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 of sinning against that Light which, as the Scripture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 says, was a Law to themselves, and by such Rules as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 their Consciences would acknowledge to be just, tho'
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 the Foundation was not discover'd to us: And (2nd) that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/m/n/10 still as \OT1/lmtt/b/n/10 we are all the Clay in the Hand of t
 he Potter,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2392--2393
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2394
 \OT1/lmtt/b/n/10 no Vessel could say to him, Why hast thou form'd me
  []
 
 
 
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 2421--2422
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2422--2423
 []\OT1/lmtt/m/n/10 Major works: \OT1/lmtt/m/it/10 Paradise Lost \OT1/lmtt/m/n/1
 0 (1667), \OT1/lmtt/m/it/10 Areopagitica
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2422--2423
+Underfull \hbox (badness 10000) in paragraph at lines 2423--2424
 []\OT1/lmtt/m/n/10 He was already a towering literary figure by the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2430--2431
+Underfull \hbox (badness 10000) in paragraph at lines 2431--2432
 []\OT1/lmtt/m/n/10 Famous for \OT1/lmtt/m/it/10 Robinson Crusoe \OT1/lmtt/m/n/1
 0 (1719), \OT1/lmtt/m/it/10 Moll Flanders
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2431--2432
+Underfull \hbox (badness 10000) in paragraph at lines 2432--2433
 []\OT1/lmtt/m/n/10 He wrote in the late 17th and early 18th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2442
+Underfull \hbox (badness 10000) in paragraph at lines 2442--2443
 []\OT1/lmtt/m/n/10 Yes | Defoe was familiar with Milton's work. In
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2442
+Underfull \hbox (badness 10000) in paragraph at lines 2442--2443
 \OT1/lmtt/m/n/10 his \OT1/lmtt/m/it/10 Political History of the Devil \OT1/lmtt
 /m/n/10 (1726), Defoe
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2442
+Underfull \hbox (badness 10000) in paragraph at lines 2442--2443
 \OT1/lmtt/m/n/10 explicitly discusses \OT1/lmtt/m/it/10 Paradise Lost \OT1/lmtt
 /m/n/10 and critiques
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2442
+Underfull \hbox (badness 10000) in paragraph at lines 2442--2443
 \OT1/lmtt/m/n/10 Milton's portrayal of Satan, showing he had read and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2447--2448
+Underfull \hbox (badness 10000) in paragraph at lines 2448--2449
 []\OT1/lmtt/m/n/10 Defoe read Milton and even commented critically on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2450--2451
+Underfull \hbox (badness 10000) in paragraph at lines 2451--2452
 []\OT1/lmtt/m/n/10 So, the literary lineage runs: Milton influenced
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2450--2451
+Underfull \hbox (badness 10000) in paragraph at lines 2451--2452
 \OT1/lmtt/m/n/10 the intellectual climate that Defoe later inherited and
  []
 
 
 
-[76]
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 []\OT1/lmtt/m/n/10 I saw a great Fowl like a Hawk sit upon a Tree within
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 Shot; so to let Friday understand a little what I would
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 do, I call'd him to me again, pointed at the Fowl
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 which was indeed a Parrot, tho' I thought it had been
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 a Hawk, I say pointing to the Parrot, and to my Gun,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 and to the Ground under the Parrot, to let him see I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 would make it fall, I made him understand that I would
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 shoot and kill that Bird; accordingly I fir'd and bad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 him look, and immediately he saw the Parrot fall, he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 stood like one frighted again, notwithstanding all I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 had said to him; and I found he was the more amaz'd,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 because he did not see me put any Thing into the Gun;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 but thought that there must be some wonderful Fund of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 Death and Destruction in that Thing, able to kill Man,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 Beast, Bird, or any Thing near, or far off; and the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 Astonishment this created in him was such, as could not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 wear off for a long Time; and I believe, if I would have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/m/n/10 let him, he would have worshipp'd me and my Gun: \OT1/lmtt/b/n
 /10 As
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/b/n/10 for the Gun itself, he would not so much as touch it for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/b/n/10 several Days after; but would speak to it, and talk to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/b/n/10 it, as if it had answer'd him, when he was by himself;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 \OT1/lmtt/b/n/10 which, as I afterwards learn'd of him, was to desire it
  []
 
 
 
-[77]
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 []\OT1/lmtt/m/n/10 ask'd him who made the Sea, the Ground we walk'd on,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 and the Hills, and Woods; he told me it was one old
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/it/10 Benamuckee\OT1/lmtt/m/n/10 , that liv'd beyond all: He could 
 describe
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 nothing of this great Person, but that he was very
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 old; much older he said than the Sea, or the Land;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 than the Moon, or the Stars: I ask'd him then, if this
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 old Person had made all Things, why did not all Things
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 worship him; he look'd very grave, and with a perfect
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 Look of Innocence, said, \OT1/lmtt/b/n/10 All Things do say O 
 to him\OT1/lmtt/m/n/10 : I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 ask'd him if the People who die in his Country went away
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 any where; he said, yes, they all went to Benamuckee;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2500--2501
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
 \OT1/lmtt/m/n/10 then I ask'd him whether these they eat up went thither
  []
 
 
 
-[78]
-
 [79]
-Overfull \hbox (14.78595pt too wide) in paragraph at lines 2522--2522
+
+[80]
+Overfull \hbox (14.78595pt too wide) in paragraph at lines 2523--2523
 []\OT1/lmr/bx/n/14.4 Mar 12, 2026 20:59:27 - Con-cern-ing The Nearly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 []\OT1/lmtt/m/n/10 he told me one Day, that if \OT1/lmtt/b/n/10 our God could h
 ear us
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 up beyond the Sun\OT1/lmtt/m/n/10 , he must needs be a greater
  God than
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 their \OT1/lmtt/b/n/10 Benamuckee, who liv'd but a little way 
 off, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 yet could not hear, till they went up to the great
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 Mountains where he dwelt, to speak to him\OT1/lmtt/m/n/10 ; I 
 ask'd him
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 if ever he went thither, to speak to him; he said no,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 they never went that were young Men; none went thither
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 but the old Men, who he call'd their Oowocakee, that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 is, as I made him explain it to me, their Religious,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 or Clergy, and that they went to say O, (so he called
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 saying Prayers) and then came back, and told them what
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 Benamuckee said: By this I observ'd, That \OT1/lmtt/b/n/10 the
 re is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 Priestcraft, even amongst the most blinded ignorant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 Pagans in the World\OT1/lmtt/m/n/10 ; and the \OT1/lmtt/b/n/10
  Policy of making a secret
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/b/n/10 Religion\OT1/lmtt/m/n/10 , in order to preserve the Veneration
  of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 People to the Clergy, is not only to be found in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2533--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
 \OT1/lmtt/m/n/10 Roman, but perhaps among all Religions in the World,
  []
 
 
 
-[80]
-Overfull \hbox (2.1284pt too wide) in paragraph at lines 2558--2558
+[81]
+Overfull \hbox (2.1284pt too wide) in paragraph at lines 2559--2559
 []\OT1/lmr/bx/n/14.4 Mar 12, 2026 21:13:57 - Con-cern-ing The Mat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 []\OT1/lmtt/m/n/10 In this thankful Frame I continu'd all the Remainder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 of my Time, and the Conversation which employ'd the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 Hours between Friday and I, was such, as made the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 three Years which we liv'd there together perfectly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 and compleatly happy, if any such Thing as compleat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 Happiness can be form'd in a sublunary State. \OT1/lmtt/b/n/10
  The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/b/n/10 Savage was now a good Christian, a much better than
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/b/n/10 I\OT1/lmtt/m/n/10 ; though I have reason to hope, and bless Go
 d for it,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 that \OT1/lmtt/b/n/10 we were equally penitent\OT1/lmtt/m/n/10
  , and comforted restor'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 Penitents; we had here the Word of God to read, and no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2569--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2571
 \OT1/lmtt/m/n/10 farther off from his Spirit to instruct, than if we had
  []
 
 
 
-[81]
-
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 []\OT1/lmtt/m/n/10 As to all the Disputes, Wranglings, Strife and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Contention, which has happen'd in the World about
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Religion, whether Niceties in Doctrines, or Schemes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 of Church Government, they were all perfectly useless
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 to us; as for ought I can yet see, they have been to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 all the rest of the World: We had the sure Guide to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Heaven, viz. The Word of God; and we had, blessed be
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 God, comfortable Views of the Spirit of God teaching
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 and instructing us by his Word, leading us into all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Truth, and making us both willing and obedient to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Instruction of his Word; and I cannot see the least Use
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 that the greatest Knowledge of the disputed Points in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 Religion which have made such Confusions in the World
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 would have been to us, if we could have obtain'd it;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2607--2608
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
 \OT1/lmtt/m/n/10 but I must go on with the Historical Part of Things, and
  []
 
 
 
-[83]
-Underfull \hbox (badness 10000) in paragraph at lines 2628--2628
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 2629--2629
 \OT1/lmtt/m/n/8 you change and become like little children, you will never ente
 r the kingdom of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 []\OT1/lmtt/m/n/10 After all this was done too, I had my Man Friday
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 to teach as to what belong'd to the Navigation of my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 Boat; for though he knew very well how to paddle a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 Canoe, he knew nothing what belong'd to a Sail, and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 Rudder; and was the most amaz'd, when he saw me work
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 the Boat too and again in the Sea by the Rudder, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 how the Sail gyb'd, and fill'd this way, or that way, as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 the Course we sail'd chang'd; I say, when he saw this,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 he stood like one, astonish'd, and amaz'd: However,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 with a little Use, I made all these Things familiar to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 him; and he became an expert Sailor, except that as to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 the Compass, I could make him understand very little
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 of that. On the other hand, as there was very little
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 cloudy Weather, and seldom or never any Fogs in those
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 Parts, there was the less occasion for a Compass, seeing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 the Stars were always to be seen by Night, and the Shore
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2649--2650
+Underfull \hbox (badness 10000) in paragraph at lines 2650--2651
 \OT1/lmtt/m/n/10 by Day, except in the rainy Seasons, and then no body
  []
 
 
 
-[84]
-
 [85]
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 []\OT1/lmtt/m/n/10 The rainy Season was in the mean Time upon me, when
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 I kept more within Doors than at other Times; so I had
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 stow'd our new Vessel as secure as we could, bringing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 her up into the Creek, where as I said, in the Beginning
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 I landed my Rafts from the Ship, and haling her up to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 the Shore, at high Water mark, I made my Man Friday dig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 a little Dock, just big enough to hold her, and just
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 deep enough to give her Water enough to fleet in; and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 then when the Tide was out, we made a strong Dam cross
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 the End of it, to keep the Water out; and so she lay
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 dry, as to the Tide from the Sea; and to keep the Rain
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 off, we laid a great many Boughs of Trees, so thick
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 that she was as well thatch'd as a House; and thus we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2687
+Underfull \hbox (badness 10000) in paragraph at lines 2687--2688
 \OT1/lmtt/m/n/10 waited for the Month of November and December, in which
  []
 
 
 
-[86]
-<resources/images/figure12.jpeg, id=1295, 1027.84pt x 1027.84pt>
+[87]
+<resources/images/figure12.jpeg, id=1392, 1027.84pt x 1027.84pt>
 File: resources/images/figure12.jpeg Graphic file (type jpg)
 <use resources/images/figure12.jpeg>
 Package pdftex.def Info: resources/images/figure12.jpeg  used on input line 270
-2.
+3.
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
 
-[87 <./resources/images/figure12.jpeg>]
-
-[88]
+[88 <./resources/images/figure12.jpeg>]
 
 [89]
-Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+
+[90]
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
 []\OT1/lmtt/m/n/10 As I spoke this with a rais'd Voice and chearful
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
 \OT1/lmtt/m/n/10 Countenance, I found it greatly encourag'd him; so
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
 \OT1/lmtt/m/n/10 we set vigorously to our Business: We had upon the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
 \OT1/lmtt/m/n/10 first Appearance of the Boat's coming from the Ship,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2741--2742
+Underfull \hbox (badness 10000) in paragraph at lines 2742--2743
 \OT1/lmtt/m/n/10 consider'd of separating our Prisoners, and had indeed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 []\OT1/lmtt/m/n/10 Two of them, of whom the Captain was less assur'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 than ordinary, I sent with Friday, and one of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 three (deliver'd Men) to my Cave, where they were
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 remote enough, and out of Danger of being heard or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 discover'd, or of finding their way Out of the Woods,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 if they could have deliver'd themselves: Here they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 left them bound, but gave them Provisions, and promis'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 them if they continu'd there quietly, to give them their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 Liberty in a Day or two; but that if they attempted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 their Escape, they should be put to Death without Mercy:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 They promis'd faithfully to bear their Confinement with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 Patience, and were very thankful that they had such good
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 Usage, as to have Provisions, and a Light left them; for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 Friday gave them Candles (such as we made our selves)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2743--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2744--2745
 \OT1/lmtt/m/n/10 for their Comfort; and they did not know but that he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 []\OT1/lmtt/m/n/10 The other Prisoners had better Usage; two of them
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 were kept pinion'd indeed, because the Captain was not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 free to trust them; but the other two were taken into
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 my Service upon their Captain's Recommendation, and upon
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 their solemnly engaging to live and die with us; so with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 them and the three honest Men, we were seven Men, well
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 arm'd; and I made no doubt we shou'd be able to deal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 well enough with the Ten that were a coming, considering
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2745--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2746--2747
 \OT1/lmtt/m/n/10 that the Captain had said, there were three or four
  []
 
 
 
-[90]
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 []\OT1/lmtt/b/n/10 Yoweri Museveni\OT1/lmtt/m/n/10 's rise to power began with 
 a small
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 \OT1/lmtt/m/n/10 guerrilla force of just 27 fighters and 27 guns in 1981,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 \OT1/lmtt/m/n/10 which grew into the National Resistance Army (NRA) and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 \OT1/lmtt/m/n/10 eventually toppled Uganda's government in 1986 after
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 \OT1/lmtt/m/n/10 a brutal five-year Bush War. His campaign combined
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2775--2776
+Underfull \hbox (badness 10000) in paragraph at lines 2776--2777
 \OT1/lmtt/m/n/10 military strategy, popular mobilization, and political
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2798--2799
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
 []\OT1/lmtt/b/n/10 Idi Amin's regime (1971--1979): \OT1/lmtt/m/n/10 Amin ruled 
 Uganda
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2798--2799
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
 \OT1/lmtt/m/n/10 through terror until Tanzanian forces and Ugandan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
 []\OT1/lmtt/b/n/10 Milton Obote's return (1980): \OT1/lmtt/m/n/10 After dispute
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
 \OT1/lmtt/m/n/10 elections widely seen as rigged, Obote regained
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
+Underfull \hbox (badness 10000) in paragraph at lines 2801--2802
 []\OT1/lmtt/b/n/10 Museveni's decision: \OT1/lmtt/m/n/10 Convinced peaceful pol
 itics
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
+Underfull \hbox (badness 10000) in paragraph at lines 2801--2802
 \OT1/lmtt/m/n/10 were impossible, Museveni and his comrades retreated
  []
 
 
 
-[91]
-Underfull \hbox (badness 10000) in paragraph at lines 2824--2825
+[92]
+Underfull \hbox (badness 10000) in paragraph at lines 2825--2826
 []\OT1/lmtt/b/n/10 Starting point: \OT1/lmtt/m/n/10 On 6 February 1981, Museven
 i
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2824--2825
+Underfull \hbox (badness 10000) in paragraph at lines 2825--2826
 \OT1/lmtt/m/n/10 launched the rebellion with 27 men and 27 rifles
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2825--2826
+Underfull \hbox (badness 10000) in paragraph at lines 2826--2827
 []\OT1/lmtt/b/n/10 Growth of the NRA: \OT1/lmtt/m/n/10 By 1983, the force had e
 xpanded
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2825--2826
+Underfull \hbox (badness 10000) in paragraph at lines 2826--2827
 \OT1/lmtt/m/n/10 to about 4,000 fighters, and by late 1985, nearly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2826--2827
+Underfull \hbox (badness 10000) in paragraph at lines 2827--2828
 []\OT1/lmtt/b/n/10 Civilian support: \OT1/lmtt/m/n/10 Many villagers joined or 
 aided
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2826--2827
+Underfull \hbox (badness 10000) in paragraph at lines 2827--2828
 \OT1/lmtt/m/n/10 the NRA, partly out of fear of government brutality
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2827--2828
+Underfull \hbox (badness 10000) in paragraph at lines 2828--2829
 []\OT1/lmtt/b/n/10 Tactics: \OT1/lmtt/m/n/10 Guerrilla warfare, ambushes, and p
 olitical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2827--2828
+Underfull \hbox (badness 10000) in paragraph at lines 2828--2829
 \OT1/lmtt/m/n/10 education programs helped the NRA sustain itself
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2849--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2851
 []\OT1/lmtt/m/n/10 two were taken into my Service upon their Captain's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2849--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2851
 \OT1/lmtt/m/n/10 Recommendation, and upon their solemnly engaging to live
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2849--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2851
 \OT1/lmtt/m/n/10 and die with us; so with them and the three honest Men,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2849--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2851
 \OT1/lmtt/b/n/10 we were seven Men, well arm'd\OT1/lmtt/m/n/10 ; and I made no 
 doubt we
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2849--2850
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2851
 \OT1/lmtt/m/n/10 shou'd be able to deal well enough with the Ten that
  []
 
 
 
-[92]
-Underfull \hbox (badness 10000) in paragraph at lines 2871--2872
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 2872--2873
 []\OT1/lmtt/b/n/10 1983--1984: \OT1/lmtt/m/n/10 Heavy fighting in the Luwero
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2871--2872
+Underfull \hbox (badness 10000) in paragraph at lines 2872--2873
 \OT1/lmtt/m/n/10 Triangle devastated communities, with estimates
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2872--2873
+Underfull \hbox (badness 10000) in paragraph at lines 2873--2874
 []\OT1/lmtt/b/n/10 1985 coup: \OT1/lmtt/m/n/10 Obote was overthrown by General 
 Tito
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2872--2873
+Underfull \hbox (badness 10000) in paragraph at lines 2873--2874
 \OT1/lmtt/m/n/10 Okello, who sought peace with rebels. Museveni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2873--2874
+Underfull \hbox (badness 10000) in paragraph at lines 2874--2875
 []\OT1/lmtt/b/n/10 Final push: \OT1/lmtt/m/n/10 From August to December 1985, t
 he NRA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2874--2875
+Underfull \hbox (badness 10000) in paragraph at lines 2875--2876
 []\OT1/lmtt/b/n/10 Victory: \OT1/lmtt/m/n/10 On 29 January 1986, Museveni's NRA
  marched
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2874--2875
+Underfull \hbox (badness 10000) in paragraph at lines 2875--2876
 \OT1/lmtt/m/n/10 into Kampala, seizing power and establishing the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2879--2880
+Underfull \hbox (badness 10000) in paragraph at lines 2880--2881
 []\OT1/lmtt/b/n/10 Small disciplined force: \OT1/lmtt/m/n/10 Allowed mobility a
 nd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2880--2881
+Underfull \hbox (badness 10000) in paragraph at lines 2881--2882
 []\OT1/lmtt/b/n/10 Civilian mobilization: \OT1/lmtt/m/n/10 Secured food, intell
 igence,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2881--2882
+Underfull \hbox (badness 10000) in paragraph at lines 2882--2883
 []\OT1/lmtt/b/n/10 Political education: \OT1/lmtt/m/n/10 Built legitimacy beyon
 d
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2882--2883
+Underfull \hbox (badness 10000) in paragraph at lines 2883--2884
 []\OT1/lmtt/b/n/10 Government brutality: \OT1/lmtt/m/n/10 Drove civilians towar
 d the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2883--2884
+Underfull \hbox (badness 10000) in paragraph at lines 2884--2885
 []\OT1/lmtt/b/n/10 Strategic patience: \OT1/lmtt/m/n/10 Avoided premature battl
 es,
  []
 
 
 
-[93]
-Underfull \hbox (badness 10000) in paragraph at lines 2906--2907
+[94]
+Underfull \hbox (badness 10000) in paragraph at lines 2907--2908
 []\OT1/lmtt/m/n/10 Museveni's Bush War is considered one of the few
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2906--2907
+Underfull \hbox (badness 10000) in paragraph at lines 2907--2908
 \OT1/lmtt/m/n/10 successful post-colonial guerrilla movements in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2907--2908
+Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
 []\OT1/lmtt/m/n/10 His victory reshaped Uganda's politics, ending years
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2910
 []\OT1/lmtt/m/n/10 However, his long rule since 1986 has sparked
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2910
 \OT1/lmtt/m/n/10 debate: once seen as a liberator, Museveni is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2910
 \OT1/lmtt/m/n/10 now criticized for authoritarian tendencies and
  []
 
-<resources/images/figure13.jpg, id=1367, 1027.84pt x 1027.84pt>
+<resources/images/figure13.jpg, id=1464, 1027.84pt x 1027.84pt>
 File: resources/images/figure13.jpg Graphic file (type jpg)
 <use resources/images/figure13.jpg>
-Package pdftex.def Info: resources/images/figure13.jpg  used on input line 2927
+Package pdftex.def Info: resources/images/figure13.jpg  used on input line 2928
 .
 (pdftex.def)             Requested size: 345.0pt x 345.00685pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 []\OT1/lmtt/m/n/10 At length they came up to the Boat; but 'tis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 impossible to express their Confusion, when they found
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 the Boat fast a-Ground in the Creek, the Tide ebb'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 out, and their two Men gone: We could hear them call
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 to one another in a most lamentable Manner, telling one
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 another, they were gotten into an inchanted Island; that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 either there were Inhabitants in it, and they should all
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2939--2940
+Underfull \hbox (badness 10000) in paragraph at lines 2940--2941
 \OT1/lmtt/m/n/10 be murther'd, or else there were Devils and Spirits in
  []
 
 
 
-[94]
+[95]
 
-[95 <./resources/images/figure13.jpg>]
-<resources/images/rina_island_cover.jpg, id=1384, 962.59625pt x 1284.8pt>
+[96 <./resources/images/figure13.jpg>]
+<resources/images/rina_island_cover.jpg, id=1481, 962.59625pt x 1284.8pt>
 File: resources/images/rina_island_cover.jpg Graphic file (type jpg)
 <use resources/images/rina_island_cover.jpg>
 Package pdftex.def Info: resources/images/rina_island_cover.jpg  used on input 
-line 2962.
+line 2963.
 (pdftex.def)             Requested size: 358.43169pt x 478.40182pt.
 
-Overfull \hbox (13.43169pt too wide) in paragraph at lines 2962--2963
+Overfull \hbox (13.43169pt too wide) in paragraph at lines 2963--2964
  [] 
  []
 
 
 
-[96
+[97
 
  <./resources/images/rina_island_cover.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2988
+Underfull \hbox (badness 10000) in paragraph at lines 2988--2989
 []\OT1/lmtt/m/n/10 As soon as the Ship was thus secur'd, the Captain
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2988
+Underfull \hbox (badness 10000) in paragraph at lines 2988--2989
 \OT1/lmtt/m/n/10 order'd seven Guns to be fir'd, which was the Signal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2988
+Underfull \hbox (badness 10000) in paragraph at lines 2988--2989
 \OT1/lmtt/m/n/10 agreed upon with me, to give me Notice of his Success,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2988
+Underfull \hbox (badness 10000) in paragraph at lines 2988--2989
 \OT1/lmtt/m/n/10 which you may be sure I was very glad to hear, having
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2988
+Underfull \hbox (badness 10000) in paragraph at lines 2988--2989
 \OT1/lmtt/m/n/10 sat watching upon the Shore for it till near two of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 []\OT1/lmtt/m/n/10 Having thus heard the Signal plainly, I laid me down;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 and it having been a Day of great Fatigue to me, I slept
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 very sound, 'till I was something surpriz'd with the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 Noise of a Gun; and presently starting up, I heard a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 Man call me by the Name of Governour, Governour, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 presently I knew the Captain's Voice, when climbing up
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 to the Top of the Hill, there he stood, and pointing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 to the Ship, \OT1/lmtt/b/n/10 he embrac'd me in his Arms, My d
 ear Friend
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/b/n/10 and Deliverer, says he, there's your Ship, for she is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/b/n/10 all yours, and so are we and all that belong to her.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 I cast my Eyes to the Ship, and there she rode within
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 little more than half a Mile of the Shore; for they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 had weighed her Anchor as soon as they were Masters of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 her; and the Weather being fair, had brought her to an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 Anchor just against the Mouth of the little Creek; and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 the Tide being up, the Captain had brought the Pinnace
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2989--2990
+Underfull \hbox (badness 10000) in paragraph at lines 2990--2991
 \OT1/lmtt/m/n/10 in near the Place where I at first landed my Rafts, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 []\OT1/lmtt/m/n/10 I was at first ready to sink down with the Surprize.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 \OT1/lmtt/b/n/10 For I saw my Deliverance indeed visibly put into my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 \OT1/lmtt/b/n/10 Hands, all things easy, and a large Ship just ready to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 \OT1/lmtt/b/n/10 carry me away whither I pleased to go. \OT1/lmtt/m/n/10 At fir
 st, for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 \OT1/lmtt/m/n/10 some time, I was not able to answer him one Word; but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3017--3018
+Underfull \hbox (badness 10000) in paragraph at lines 3018--3019
 \OT1/lmtt/b/n/10 as he had taken me in his Arms, I held fast by him, or I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3020
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3021
 []\OT1/lmtt/m/n/10 He perceived the Surprize, and immediately pulls a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3020
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3021
 \OT1/lmtt/m/n/10 Bottle out of his Pocket, and gave me a Dram of Cordial,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3020
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3021
 \OT1/lmtt/m/n/10 which he had brought on Purpose for me; after I had
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3020
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3021
 \OT1/lmtt/m/n/10 drank it, I sat down upon the Ground; and though it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3019--3020
+Underfull \hbox (badness 10000) in paragraph at lines 3020--3021
 \OT1/lmtt/m/n/10 brought me to my self, yet it was a good while before I
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 []\OT1/lmtt/m/n/10 All this while the poor Man was in as great an Extasy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 \OT1/lmtt/m/n/10 as I, only not under any Surprize, as I was; and he said
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 \OT1/lmtt/m/n/10 a thousand kind tender things to me, to compose me and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 \OT1/lmtt/m/n/10 bring me to my self; but such was the Flood of \OT1/lmtt/b/n/1
 0 Joy in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 \OT1/lmtt/b/n/10 my Breast, that it put all my Spirits into Confusion\OT1/lmtt/
 m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3021--3022
+Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 \OT1/lmtt/m/n/10 at last it broke out into Tears, and in a little while
  []
 
 
 
-[97]
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3050
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
 []\OT1/lmtt/m/n/10 First he had brought me a Case of Bottles full of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3050
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
 \OT1/lmtt/m/n/10 excellent \OT1/lmtt/b/n/10 Cordial Waters\OT1/lmtt/m/n/10 , si
 x large Bottles of \OT1/lmtt/b/n/10 Madera
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3050
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
 \OT1/lmtt/b/n/10 Wine\OT1/lmtt/m/n/10 ; the Bottles held two Quarts a-piece; tw
 o Pound of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3050
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
 \OT1/lmtt/m/n/10 excellent good Tobacco, twelve good Pieces of the Ship's
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3049--3050
+Underfull \hbox (badness 10000) in paragraph at lines 3050--3051
 \OT1/lmtt/m/n/10 Beef, and six Pieces of Pork, with a Bag of Pease, and
  []
 
 
 
-[98]
-
 [99]
-<resources/images/author.jpg, id=1427, 2457.18pt x 3276.24pt>
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+[]\OT1/lmtt/m/n/10 After some time, I came thither dress'd in my new
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 Habit, and now I was call'd Governour again; being all
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 met, and the Captain with me, I caused the Men to be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 brought before me, and I told them, I had had a full
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 Account of their villanous Behaviour to the Captain, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 how they had run away with the Ship, and were preparing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 to commit farther Robberies, but that Providence had
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3087--3088
+\OT1/lmtt/m/n/10 ensnar'd them in their own Ways, and that they were
+ []
+
+
+
+[100]
+Overfull \hbox (5.09357pt too wide) in paragraph at lines 3110--3110
+[]\OT1/lmr/bx/n/14.4 Apr 27, 2026 23:46:20 - Con-cern-ing The Spirit
+ []
+
+
+Overfull \hbox (3.00908pt too wide) in paragraph at lines 3110--3110
+\OT1/lmr/bx/n/14.4 of Ex-pand-ing and Per-pet-u-at-ing Ter-ri-tory and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+[]\OT1/lmtt/m/n/10 I left them my Fire Arms, viz. Five Muskets, three
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+\OT1/lmtt/m/n/10 Fowling Pieces, and three Swords. I had above a Barrel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+\OT1/lmtt/m/n/10 and half of Powder left; for after the first Year or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+\OT1/lmtt/m/n/10 two, I used but little, and wasted none. I gave them
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+\OT1/lmtt/m/n/10 a Description of the Way I manag'd the Goats, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3121--3122
+\OT1/lmtt/m/n/10 Directions to milk and fatten them, and to make both
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+[]\OT1/lmtt/m/n/10 In a Word, I gave them every Part of my own Story;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+\OT1/lmtt/m/n/10 and I told them, I would prevail with the Captain to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+\OT1/lmtt/m/n/10 leave them two Barrels of Gun-Powder more, and some
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+\OT1/lmtt/m/n/10 Garden-Seeds, which I told them I would have been very
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+\OT1/lmtt/m/n/10 glad of; also I gave them the Bag of Pease which the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
+\OT1/lmtt/m/n/10 Captain had brought me to eat, and bad them be sure to
+ []
+
+
+
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+[]\OT1/lmtt/m/n/10 When I took leave of this Island, I carry'd on board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 for Reliques, the great Goat's-Skin-Cap I had made, my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 Umbrella, and my Parrot; also I forgot not to take the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 Money I formerly mention'd, which had lain by me so
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 long useless, that it was grown rusty, or tarnish'd, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 could hardly pass for Silver, till it had been a little
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3157--3158
+\OT1/lmtt/m/n/10 rubb'd, and handled; as also the Money I found in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+[]\OT1/lmtt/b/n/10 And thus I left the Island, the Nineteenth of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+\OT1/lmtt/b/n/10 December\OT1/lmtt/m/n/10 , as I found by the Ship's Account, \
+OT1/lmtt/b/n/10 in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+\OT1/lmtt/b/n/10 Year 1686\OT1/lmtt/m/n/10 , after \OT1/lmtt/b/n/10 I had been 
+upon it eight and twenty
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+\OT1/lmtt/b/n/10 Years, two Months, and 19 Days\OT1/lmtt/m/n/10 ; being deliver
+'d from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+\OT1/lmtt/m/n/10 this second Captivity, the same Day of the Month, that I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3159--3160
+\OT1/lmtt/m/n/10 first made my Escape in the Barco-Longo, from among the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3161--3162
+[]\OT1/lmtt/m/n/10 In this Vessel, after a long Voyage, \OT1/lmtt/b/n/10 I arri
+v'd in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3161--3162
+\OT1/lmtt/b/n/10 England, the Eleventh of June, in the Year 1687, having
+ []
+
+
+
+[102]
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+[]\OT1/lmtt/m/n/10 I went down afterwards into Yorkshire; but my Father
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 was dead, and my Mother, and all the Family extinct,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 except that I found two Sisters, and two of the Children
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 of one of my Brothers; and as I had been long ago given
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 over for dead, there had been no Provision made for me;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 so that in a Word, I found nothing to relieve, or assist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3193--3194
+\OT1/lmtt/m/n/10 me; and that little Money I had, would not do much for
+ []
+
+
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+[]\OT1/lmtt/m/n/10 I might well say, now indeed, That the latter End of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 Job was better than the Beginning. It is impossible to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 express here the Flutterings of my very Heart, when I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 look'd over these Letters, and especially when I found
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 all my Wealth about me; for as the Brasil Ships come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 all in Fleets, the same Ships which brought my Letters,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 brought my Goods; and the Effects were safe in the River
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 before the Letters came to my Hand. In a Word, I turned
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 pale, and grew sick; and had not the old Man run and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3227--3229
+\OT1/lmtt/m/n/10 fetch'd me a Cordial, I believe the sudden Surprize of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+[]\OT1/lmtt/m/n/10 Nay after that, I continu'd very ill, and was so some
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+\OT1/lmtt/m/n/10 Hours, 'till a Physician being sent for, and something
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+\OT1/lmtt/m/n/10 of the real Cause of my Illness being known, he order'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+\OT1/lmtt/m/n/10 me to be let Blood; after which, I had Relief, and grew
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+\OT1/lmtt/m/n/10 well: But I verily believe, if it had not been eas'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+\OT1/lmtt/m/n/10 by a Vent given in that Manner, to the Spirits, I should
+ []
+
+
+
+[105]
+Underfull \hbox (badness 1527) in paragraph at lines 3251--3251
+[][][]\OT1/lmr/m/n/8 Refer to \OT1/lmr/m/it/8 TRANS-FOR-MAT-ICS in Psy-chol-ogy
+ \OT1/lmr/m/n/8 (2025); []$\OT1/lmtt/m/n/8 https : / / doi . org / 10 . 20944 /
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3271--3272
+[]\OT1/lmtt/m/n/10 I had once a Mind to have gone to the Brasils, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3271--3272
+\OT1/lmtt/m/n/10 have settled my self there; for I was, as it were,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3271--3272
+\OT1/lmtt/m/n/10 naturaliz'd to the Place; but I had some little Scruple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3271--3272
+\OT1/lmtt/m/n/10 in my Mind about Religion, which insensibly drew me
+ []
+
+
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 3289--3290
+[]\OT1/lmtt/m/n/10 when I began to think of living and dying among them,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3289--3290
+\OT1/lmtt/m/n/10 I began \OT1/lmtt/b/n/10 to regret my having profess'd my self
+ a Papist,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3289--3290
+\OT1/lmtt/b/n/10 and thought it might not be the best Religion to die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+[]\OT1/lmtt/m/n/10 Lastly, I wrote to my Partner, acknowledging his
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 Industry in the Improving the Plantation, and his
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 Integrity in encreasing the Stock of the Works, giving
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 him Instructions for his future Government of my Part,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 according to the Powers I had left with my old Patron,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 to whom I desir'd him to send whatever became due to me,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 'till he should hear from me more particularly; assuring
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 him that it was my Intention, not only to come to him,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 but to settle my self there for the Remainder of my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 Life: To this I added a very handsom Present of some
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 Italian Silks for his Wife, and two Daughters, for such
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 the Captain's Son inform'd me he had; with two Pieces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 of fine English broad Cloath, the best I could get in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3325--3326
+\OT1/lmtt/m/n/10 Lisbon, five Pieces of black Bays, and some Flanders
+ []
+
+
+
+[107]
+
+[108]
+
+[109]
+Overfull \hbox (19.2217pt too wide) in paragraph at lines 3349--3349
+[]\OT1/lmr/bx/n/14.4 May 18, 2026 04:25:46 - Cru-soe's Bat-tle Against
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+[]\OT1/lmtt/m/n/10 We did not think fit to disturb them at their Feast,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 neither did they take much Notice of us: Friday would
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 have let fly at them, but I would not suffer him by any
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Means; for I found we were like to have more Business
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 upon our Hands than we were aware of. We were not gone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 half over the Plain, but we began to hear the Wolves
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 howl in the Wood on our Left, in a frightful Manner,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 and presently after we saw about a hundred coming on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 directly towards us, all in a Body, and most of them in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 a Line, as regularly as an Army drawn up by experienc'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Officers. I scarce knew in what Manner to receive them;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 but found to draw our selves in a close Line was the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 only Way: so we form'd in a Moment: But that we might
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 not have too much Interval, I order'd, that only every
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 other Man should fire, and that the others who had not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 fir'd should stand ready to give them a second Volley
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 immediately, if they continued to advance upon us,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 and that then those who had fir'd at first, should not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 pretend to load their Fusees again, but stand ready
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 with every one a Pistol; for we were all arm'd with a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Fusee, and a Pair of Pistols each Man; so we were by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 this Method able to fire six Volleys, half of us at a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Time; however, at present we had no Necessity; for upon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 firing the first Volley, the Enemy made a full Stop,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 being terrify'd as well with the Noise, as with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Fire; four of them being shot into the Head, dropp'd,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 several others were wounded, and went bleeding off, as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 we could see by the Snow: I found they stopp'd, but did
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 not immediately retreat; whereupon remembring that I had
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 been told, \OT1/lmtt/b/n/10 that the fiercest Creatures were t
+errify'd
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/b/n/10 at the Voice of a Man, I caus'd all our Company to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/b/n/10 hollow as loud as we could\OT1/lmtt/m/n/10 ; and I found the N
+otion not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 altogether mistaken; for upon our Shout, they began
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 to retire, and turn about; then I order'd a second
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3367--3368
+\OT1/lmtt/m/n/10 Volley to be fir'd, in their Rear, which put them to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3370
+[]\OT1/lmtt/m/n/10 This gave us leisure to charge our Pieces again, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3370
+\OT1/lmtt/m/n/10 that we might loose no Time, we kept going; but we had
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3370
+\OT1/lmtt/m/n/10 but little more than loaded our Fusees, and put our
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3370
+\OT1/lmtt/m/n/10 selves into a Readiness, when we heard a terrible Noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3369--3370
+\OT1/lmtt/m/n/10 in the same Wood, on our Left, only that it was farther
+ []
+
+
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+[]\OT1/lmtt/m/n/10 The Night was coming on, and the Light began to be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 dusky, which made it worse on our Side; but the Noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 encreasing, we could easily perceive that it was the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 Howling and Yelling of those hellish Creatures; and \OT1/lmtt/
+b/n/10 on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/b/n/10 a sudden, we perceiv'd 2 or 3 Troops of Wolves, one on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/b/n/10 our Left, one behind us, and one to the Front; so that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/b/n/10 we seem'd to be surrounded with 'em\OT1/lmtt/m/n/10 ; however,
+ as they
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 did not fall upon us, we kept our Way forward, as fast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 as we could make our Horses go, which the Way being very
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 rough, was only a good large Trot; and in this Manner we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 came in View of the Entrance of a Wood, through which we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 were to pass, at the farther Side of the Plain; but we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 were greatly surpriz'd, when coming nearer the Lane, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3392--3393
+\OT1/lmtt/m/n/10 Pass, we saw a confus'd Number of Wolves standing just
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+[]\OT1/lmtt/m/n/10 On a sudden, at another opening of the Wood, we heard
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 the Noise of a Gun; and looking that Way, out rush'd a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 Horse, with a Saddle, and a Bridle on him, flying like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 the Wind, and sixteen or seventeen Wolves after him,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 full Speed; indeed, the Horse had the Heels of them; but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 as we suppos'd that he could not hold it at that rate,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3394--3395
+\OT1/lmtt/m/n/10 we doubted not but they would get up with him at last,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+[]\OT1/lmtt/m/n/10 But here we had a most horrible Sight; for riding up
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+\OT1/lmtt/m/n/10 to the Entrance where the Horse came out, we found the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+\OT1/lmtt/m/n/10 Carcass of another Horse, and of two Men, devour'd by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+\OT1/lmtt/m/n/10 the ravenous Creatures, and one of the Men was no doubt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+\OT1/lmtt/m/n/10 the same who we heard fir'd the Gun; for there lay a Gun
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3396--3397
+\OT1/lmtt/m/n/10 just by him, fir'd off; but as to the Man, his Head, and
+ []
+
+
+
+[111]
+Overfull \hbox (4.2373pt too wide) in paragraph at lines 3416--3416
+[]\OT1/lmr/bx/n/14.4 May 23, 2026 03:21:31 - Nearly Celi-bate, Cru-
+ []
+
+
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+[]\OT1/lmtt/m/n/10 My true Friend, the Widow, earnestly diswaded me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 from it, and so far prevail'd with me, that for almost
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 seven Years she prevented my running Abroad; during
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 which time, I took my two Nephews, the Children of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 one of my Brothers into my Care: The eldest having
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 something of his own, I bred up as a Gentleman, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 gave him a Settlement of some Addition to his Estate,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 after my Decease; the other I put out to a Captain of a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 Ship; and after five Years, finding him a sensible bold
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 enterprising young Fellow, I put him into a good Ship,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 and sent him to Sea: And this young Fellow afterwards
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3430--3431
+\OT1/lmtt/m/n/10 drew me in, as old as I was, to farther Adventures my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+[]\OT1/lmtt/m/n/10 In the mean time, I in Part settled my self here;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/m/n/10 for first of all \OT1/lmtt/b/n/10 I marry'd, and that not eith
+er to my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/b/n/10 Disadvantage or Dissatisfaction, and had three Children,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/b/n/10 two Sons and one Daughter\OT1/lmtt/m/n/10 : But my Wife dying,
+ and my
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/m/n/10 Nephew coming Home with good Success from a Voyage to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/m/n/10 Spain, my Inclination to go Abroad, and his Importunity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3432--3433
+\OT1/lmtt/m/n/10 prevailed and engag'd me to go in his Ship, as a private
+ []
+
+
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 3469--3470
+[]\OT1/lmtt/m/n/10 All these things, with some very surprizing Incidents
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3469--3470
+\OT1/lmtt/m/n/10 in some new Adventures of my own, for ten Years more, I
+ []
+
+
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+[]\OT1/lmtt/m/n/10 the Teacher, like a greater, having no Honour in his
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 own Country. Facts that are form'd to touch the Mind,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 must be done a great Way off , and by somebody never
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 heard of: Even the Miracles of the Blessed Saviour
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 of the World suffered Scorn and Contempt, when it was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 reflected, that they were done by the Carpenter's Son;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 one whose Family and Original they had a mean Opinion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3494--3495
+\OT1/lmtt/m/n/10 of, and whose Brothers and Sisters were ordinary People
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3515--3516
+[]\OT1/lmtt/m/n/10 For Jesus himself testified, that a prophet hath no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+[]\OT1/lmtt/m/n/10 As \OT1/lmtt/b/n/10 the Design of every Thing is said to be 
+first in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+\OT1/lmtt/b/n/10 the Intention\OT1/lmtt/m/n/10 , and last in the Execution; so 
+I come now
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+\OT1/lmtt/m/n/10 to acknowledge to my Reader, That the present Work is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+\OT1/lmtt/m/n/10 not merely the Product of the two first Volumes, but the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+\OT1/lmtt/m/n/10 two first Volumes may rather be called the Product of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3545--3546
+\OT1/lmtt/m/n/10 this: \OT1/lmtt/b/n/10 The Fable is always made for the Moral,
+ not the
+ []
+
+
+
+[115]
+<resources/images/author.jpg, id=1664, 2457.18pt x 3276.24pt>
 File: resources/images/author.jpg Graphic file (type jpg)
 <use resources/images/author.jpg>
-Package pdftex.def Info: resources/images/author.jpg  used on input line 3101.
+Package pdftex.def Info: resources/images/author.jpg  used on input line 3575.
 (pdftex.def)             Requested size: 137.9979pt x 183.9681pt.
 
-Underfull \hbox (badness 5417) in paragraph at lines 3106--3107
+Underfull \hbox (badness 5417) in paragraph at lines 3580--3581
 []\OT1/lmtt/m/n/10 [Future Professor] \OT1/lmr/bx/n/10 Joseph Will-rich
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 3106--3107
+Underfull \hbox (badness 1142) in paragraph at lines 3580--3581
 \OT1/lmr/bx/n/10 Lu-talo \OT1/lmr/m/n/10 is an in-de-pen-dent em-pir-i-cal re-
  []
 
 
 
-[100 <./resources/images/author.jpg>]
+[116 <./resources/images/author.jpg>]
 
-[101]
-Overfull \hbox (4.5394pt too wide) in paragraph at lines 3143--3144
+[117]
+Overfull \hbox (4.5394pt too wide) in paragraph at lines 3617--3618
 []\OT1/lmr/m/n/10 Lutalo, J. W. (2025). \OT1/lmr/bx/n/10 TRANS-FOR-MAT-ICS 101-
 explained \OT1/lmr/m/n/10 (Doc-
  []
 
 
-Overfull \hbox (2.67204pt too wide) in paragraph at lines 3148--3149
+Overfull \hbox (2.67204pt too wide) in paragraph at lines 3622--3623
 \OT1/lmr/bx/n/10 Eval-u-a-tion Meth-ods. []$\OT1/lmtt/m/n/10 https : / / doi . 
 org / 10 . 20944 / preprints202410 .
  []
 
 
-Overfull \hbox (4.86705pt too wide) in paragraph at lines 3152--3153
+Overfull \hbox (4.86705pt too wide) in paragraph at lines 3626--3627
 []\OT1/lmr/m/n/10 Lutalo, J. W. \OT1/lmr/bx/n/10 TEA: Trans-form-ing Ex-e-cutab
 le Alphabet-A Min-
  []
 
 
 
-[102]
-Underfull \hbox (badness 10000) in paragraph at lines 3162--3171
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3162--3171
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3162--3171
+Underfull \hbox (badness 10000) in paragraph at lines 3636--3645
 
  []
 
 
 
-[103]
-<resources/images/figure11.jpg, id=1477, 4015.0pt x 3011.25pt>
+[119]
+<resources/images/figure11.jpg, id=1713, 4015.0pt x 3011.25pt>
 File: resources/images/figure11.jpg Graphic file (type jpg)
 <use resources/images/figure11.jpg>
-Package pdftex.def Info: resources/images/figure11.jpg  used on input line 3197
+Package pdftex.def Info: resources/images/figure11.jpg  used on input line 3671
 .
 (pdftex.def)             Requested size: 345.0pt x 258.73271pt.
 
 
-[104 <./resources/images/figure11.jpg>]
+[120 <./resources/images/figure11.jpg>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
 usoe.bbl)
-<resources/images/innercover_a.jpeg, id=1489, 1027.84pt x 1541.76pt>
+<resources/images/innercover_a.jpeg, id=1726, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
-[105]
+[121]
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3218.
+ 3692.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[106
+[122
 
  <./resources/images/innercover_a.jpeg>]
-<resources/images/innercover_b.jpeg, id=1502, 1027.84pt x 1541.76pt>
+<resources/images/innercover_b.jpeg, id=1741, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_b.jpeg Graphic file (type jpg)
 <use resources/images/innercover_b.jpeg>
 Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3226.
+ 3700.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[107
+[123
 
  <./resources/images/innercover_b.jpeg>]
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=1509, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=1748, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3236.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3710.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -6332,7 +7329,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion:
 found PDF version <1.7>, but at most version <1.5> allowed
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3236.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3710.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -6343,35 +7340,35 @@ found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=1512, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=1751, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3236.
+e 3710.
 (pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3236.
+e 3710.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3236.
+e 3710.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3236.
+e 3710.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 
 
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3236.
+e 3710.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
-[108
+[124
 
  <./resources/pdfs/backcover.pdf>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
@@ -6382,16 +7379,16 @@ L3 programming layer <2024-07-20>
  ***********
 Package rerunfilecheck Info: File `"JWL 1 Year Chronological Review of Daniel D
 efoe Classic 1719 Novel Robinson Crusoe".out' has not changed.
-(rerunfilecheck)             Checksum: 1B2809BC3FF93ECA01906345D1767D1F;39242.
+(rerunfilecheck)             Checksum: F8952768C2684E6B6ABB972803167B0E;45231.
  ) 
 Here is how much of TeX's memory you used:
- 17537 strings out of 473898
- 280321 string characters out of 5736297
- 1945960 words of memory out of 5000000
- 39723 multiletter control sequences out of 15000+600000
+ 17622 strings out of 473898
+ 281263 string characters out of 5736297
+ 1947960 words of memory out of 5000000
+ 39752 multiletter control sequences out of 15000+600000
  641415 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,17n,93p,3523b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,17n,93p,3550b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/lm/lmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/P
@@ -6411,9 +7408,9 @@ lic/lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:
 /Program Files/MiKTeX/fonts/type1/public/lm/lmtt8.pfb><C:/Program Files/MiKTeX/
 fonts/type1/public/lm/lmtti10.pfb>
 Output written on "JWL 1 Year Chronological Review of Daniel Defoe Classic 1719
- Novel Robinson Crusoe.pdf" (108 pages, 19057924 bytes).
+ Novel Robinson Crusoe.pdf" (124 pages, 19145868 bytes).
 PDF statistics:
- 1717 PDF objects out of 1728 (max. 8388607)
- 375 named destinations out of 1000 (max. 500000)
- 991 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1967 PDF objects out of 2073 (max. 8388607)
+ 431 named destinations out of 1000 (max. 500000)
+ 1119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
