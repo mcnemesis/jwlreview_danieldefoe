@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  29 JUN 2026 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.9.25)  1 JUL 2026 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -748,7 +748,7 @@ l Robinson Crusoe.out"'.
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=503, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=511, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf  used on input line 140.
@@ -771,7 +771,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/frontcover.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/frontcover.pdf, id=506, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/frontcover.pdf, id=514, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/frontcover.pdf Graphic file (type pdf)
 <use resources/pdfs/frontcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/frontcover.pdf , page1 used on input li
@@ -1044,7 +1044,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
 
 [10{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<resources/images/Daniel_Defoe_Kneller_Style.jpg, id=787, 1284.8pt x 1535.7375p
+<resources/images/Daniel_Defoe_Kneller_Style.jpg, id=797, 1284.8pt x 1535.7375p
 t>
 File: resources/images/Daniel_Defoe_Kneller_Style.jpg Graphic file (type jpg)
 <use resources/images/Daniel_Defoe_Kneller_Style.jpg>
@@ -1063,7 +1063,7 @@ Overfull \hbox (76.49438pt too wide) in paragraph at lines 283--296
 [12]
 
 [13{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}]
-<resources/images/figure3.jpeg, id=837, 1027.84pt x 1027.84pt>
+<resources/images/figure3.jpeg, id=847, 1027.84pt x 1027.84pt>
 File: resources/images/figure3.jpeg Graphic file (type jpg)
 <use resources/images/figure3.jpeg>
 Package pdftex.def Info: resources/images/figure3.jpeg  used on input line 324.
@@ -1294,7 +1294,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 404--405
 []\OT1/lmtt/m/n/10 the Master seeing some [potential aid]... ordered to
  []
 
-<resources/images/figure14.jpg, id=863, 642.4pt x 642.4pt>
+<resources/images/figure14.jpg, id=873, 642.4pt x 642.4pt>
 File: resources/images/figure14.jpg Graphic file (type jpg)
 <use resources/images/figure14.jpg>
 Package pdftex.def Info: resources/images/figure14.jpg  used on input line 422.
@@ -1560,7 +1560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--508
 
 
 [20]
-<resources/images/figure1.jpeg, id=894, 1027.84pt x 1027.84pt>
+<resources/images/figure1.jpeg, id=904, 1027.84pt x 1027.84pt>
 File: resources/images/figure1.jpeg Graphic file (type jpg)
 <use resources/images/figure1.jpeg>
 Package pdftex.def Info: resources/images/figure1.jpeg  used on input line 532.
@@ -1607,7 +1607,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 544--545
 /it/10 The
  []
 
-<resources/images/figure2.jpeg, id=895, 1027.84pt x 1027.84pt>
+<resources/images/figure2.jpeg, id=905, 1027.84pt x 1027.84pt>
 File: resources/images/figure2.jpeg Graphic file (type jpg)
 <use resources/images/figure2.jpeg>
 Package pdftex.def Info: resources/images/figure2.jpeg  used on input line 557.
@@ -2377,7 +2377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
 
 
 [37]
-<resources/images/figure4.jpeg, id=1037, 1027.84pt x 1027.84pt>
+<resources/images/figure4.jpeg, id=1047, 1027.84pt x 1027.84pt>
 File: resources/images/figure4.jpeg Graphic file (type jpg)
 <use resources/images/figure4.jpeg>
 Package pdftex.def Info: resources/images/figure4.jpeg  used on input line 1072
@@ -3066,7 +3066,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
 
 
 [51]
-<resources/images/figure5.jpeg, id=1168, 1027.84pt x 1027.84pt>
+<resources/images/figure5.jpeg, id=1178, 1027.84pt x 1027.84pt>
 File: resources/images/figure5.jpeg Graphic file (type jpg)
 <use resources/images/figure5.jpeg>
 Package pdftex.def Info: resources/images/figure5.jpeg  used on input line 1571
@@ -3656,7 +3656,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1882--1883
 \OT1/lmtt/m/n/10 Fancy, and what strange unaccountable Whimsies came into
  []
 
-<resources/images/figure6.jpeg, id=1212, 1027.84pt x 1027.84pt>
+<resources/images/figure6.jpeg, id=1222, 1027.84pt x 1027.84pt>
 File: resources/images/figure6.jpeg Graphic file (type jpg)
 <use resources/images/figure6.jpeg>
 Package pdftex.def Info: resources/images/figure6.jpeg  used on input line 1897
@@ -3804,7 +3804,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1921--1922
 
 
 [60 <./resources/images/figure6.jpeg>]
-<resources/images/figure17.jpg, id=1228, 1027.84pt x 1284.8pt>
+<resources/images/figure17.jpg, id=1238, 1027.84pt x 1284.8pt>
 File: resources/images/figure17.jpg Graphic file (type jpg)
 <use resources/images/figure17.jpg>
 Package pdftex.def Info: resources/images/figure17.jpg  used on input line 1941
@@ -4290,7 +4290,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2149--2150
 
 
 [68]
-<resources/images/figure7.jpeg, id=1296, 1027.84pt x 1027.84pt>
+<resources/images/figure7.jpeg, id=1306, 1027.84pt x 1027.84pt>
 File: resources/images/figure7.jpeg Graphic file (type jpg)
 <use resources/images/figure7.jpeg>
 Package pdftex.def Info: resources/images/figure7.jpeg  used on input line 2167
@@ -4306,7 +4306,7 @@ Overfull \hbox (10.02628pt too wide) in paragraph at lines 2175--2176
 t of locally-accessible[][][]
  []
 
-<resources/images/figure16.jpg, id=1312, 2890.8pt x 2890.8pt>
+<resources/images/figure16.jpg, id=1322, 2890.8pt x 2890.8pt>
 File: resources/images/figure16.jpg Graphic file (type jpg)
 <use resources/images/figure16.jpg>
 Package pdftex.def Info: resources/images/figure16.jpg  used on input line 2182
@@ -4317,7 +4317,7 @@ Package pdftex.def Info: resources/images/figure16.jpg  used on input line 2182
 [71]
 
 [72 <./resources/images/figure16.jpg>]
-<resources/images/figure15.jpg, id=1336, 2890.8pt x 2890.8pt>
+<resources/images/figure15.jpg, id=1346, 2890.8pt x 2890.8pt>
 File: resources/images/figure15.jpg Graphic file (type jpg)
 <use resources/images/figure15.jpg>
 Package pdftex.def Info: resources/images/figure15.jpg  used on input line 2200
@@ -4328,7 +4328,7 @@ Package pdftex.def Info: resources/images/figure15.jpg  used on input line 2200
 [73]
 
 [74 <./resources/images/figure15.jpg>]
-<resources/images/figure8.jpg, id=1353, 2890.8pt x 2890.8pt>
+<resources/images/figure8.jpg, id=1363, 2890.8pt x 2890.8pt>
 File: resources/images/figure8.jpg Graphic file (type jpg)
 <use resources/images/figure8.jpg>
 Package pdftex.def Info: resources/images/figure8.jpg  used on input line 2210.
@@ -4337,7 +4337,7 @@ Package pdftex.def Info: resources/images/figure8.jpg  used on input line 2210.
 
 
 [75 <./resources/images/figure8.jpg>]
-<resources/images/figure9.jpg, id=1370, 2890.8pt x 2890.8pt>
+<resources/images/figure9.jpg, id=1380, 2890.8pt x 2890.8pt>
 File: resources/images/figure9.jpg Graphic file (type jpg)
 <use resources/images/figure9.jpg>
 Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2227.
@@ -4348,7 +4348,7 @@ Package pdftex.def Info: resources/images/figure9.jpg  used on input line 2227.
 [76]
 
 [77 <./resources/images/figure9.jpg>]
-<resources/images/figure10.jpg, id=1391, 4015.0pt x 3011.25pt>
+<resources/images/figure10.jpg, id=1401, 4015.0pt x 3011.25pt>
 File: resources/images/figure10.jpg Graphic file (type jpg)
 <use resources/images/figure10.jpg>
 Package pdftex.def Info: resources/images/figure10.jpg  used on input line 2243
@@ -5673,7 +5673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2855--2856
 
 
 [98]
-<resources/images/figure12.jpeg, id=1568, 1027.84pt x 1027.84pt>
+<resources/images/figure12.jpeg, id=1578, 1027.84pt x 1027.84pt>
 File: resources/images/figure12.jpeg Graphic file (type jpg)
 <use resources/images/figure12.jpeg>
 Package pdftex.def Info: resources/images/figure12.jpeg  used on input line 287
@@ -6070,7 +6070,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3077--3078
 \OT1/lmtt/m/n/10 now criticized for authoritarian tendencies and
  []
 
-<resources/images/figure13.jpg, id=1640, 1027.84pt x 1027.84pt>
+<resources/images/figure13.jpg, id=1650, 1027.84pt x 1027.84pt>
 File: resources/images/figure13.jpg Graphic file (type jpg)
 <use resources/images/figure13.jpg>
 Package pdftex.def Info: resources/images/figure13.jpg  used on input line 3096
@@ -6124,7 +6124,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3108--3109
 [106]
 
 [107 <./resources/images/figure13.jpg>]
-<resources/images/rina_island_cover.jpg, id=1657, 962.59625pt x 1284.8pt>
+<resources/images/rina_island_cover.jpg, id=1667, 962.59625pt x 1284.8pt>
 File: resources/images/rina_island_cover.jpg Graphic file (type jpg)
 <use resources/images/rina_island_cover.jpg>
 Package pdftex.def Info: resources/images/rina_island_cover.jpg  used on input 
@@ -7353,7 +7353,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3713--3714
 
 
 [126]
-<resources/images/author.jpg, id=1846, 2457.18pt x 3276.24pt>
+<resources/images/author.jpg, id=1856, 2457.18pt x 3276.24pt>
 File: resources/images/author.jpg Graphic file (type jpg)
 <use resources/images/author.jpg>
 Package pdftex.def Info: resources/images/author.jpg  used on input line 3743.
@@ -7405,111 +7405,168 @@ Underfull \hbox (badness 10000) in paragraph at lines 3804--3813
 
 
 [130]
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3860
+
+ []
+
+
+Overfull \hbox (13.94441pt too wide) in paragraph at lines 3860--3863
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3875--3875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3875--3878
+
+ []
+
+
 
 [131]
-<resources/images/figure11.jpg, id=1905, 4015.0pt x 3011.25pt>
+
+[132]
+<resources/images/figure11.jpg, id=1922, 4015.0pt x 3011.25pt>
 File: resources/images/figure11.jpg Graphic file (type jpg)
 <use resources/images/figure11.jpg>
-Package pdftex.def Info: resources/images/figure11.jpg  used on input line 3840
+Package pdftex.def Info: resources/images/figure11.jpg  used on input line 3890
 .
 (pdftex.def)             Requested size: 345.0pt x 258.73271pt.
 
 
-[132 <./resources/images/figure11.jpg>]
+[133 <./resources/images/figure11.jpg>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
 usoe.bbl)
-<resources/images/innercover_a.jpeg, id=1918, 1027.84pt x 1541.76pt>
+<resources/images/innercover_a.jpeg, id=1936, 1027.84pt x 1541.76pt>
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
-[133]
+[134]
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
+ 3917.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 
 
 File: resources/images/innercover_a.jpeg Graphic file (type jpg)
 <use resources/images/innercover_a.jpeg>
 Package pdftex.def Info: resources/images/innercover_a.jpeg  used on input line
- 3867.
-(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-[134
-
- <./resources/images/innercover_a.jpeg>]
-<resources/images/innercover_b.jpeg, id=1933, 1027.84pt x 1541.76pt>
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
-(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
-
-
-File: resources/images/innercover_b.jpeg Graphic file (type jpg)
-<use resources/images/innercover_b.jpeg>
-Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
- 3875.
+ 3917.
 (pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
 [135
+
+ <./resources/images/innercover_a.jpeg>]
+<resources/images/innercover_b.jpeg, id=1950, 1027.84pt x 1541.76pt>
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.8375pt x 1541.75624pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 597.51208pt x 845.02997pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+
+
+File: resources/images/innercover_b.jpeg Graphic file (type jpg)
+<use resources/images/innercover_b.jpeg>
+Package pdftex.def Info: resources/images/innercover_b.jpeg  used on input line
+ 3925.
+(pdftex.def)             Requested size: 1027.88454pt x 1541.82681pt.
+[136
 
  <./resources/images/innercover_b.jpeg>]
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=1940, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=1957, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3885.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3935.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -7518,7 +7575,7 @@ pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion:
 found PDF version <1.7>, but at most version <1.5> allowed
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf>
-Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3885.
+Package pdftex.def Info: resources/pdfs/backcover.pdf  used on input line 3935.
 
 (pdftex.def)             Requested size: 596.97885pt x 844.65356pt.
 
@@ -7529,35 +7586,35 @@ found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex (file ./resources/pdfs/backcover.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<resources/pdfs/backcover.pdf, id=1943, page=1, 596.98032pt x 844.65562pt>
+<resources/pdfs/backcover.pdf, id=1960, page=1, 596.98032pt x 844.65562pt>
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3885.
+e 3935.
 (pdftex.def)             Requested size: 597.54361pt x 845.06598pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3885.
+e 3935.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3885.
+e 3935.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3885.
+e 3935.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
 
 
 File: resources/pdfs/backcover.pdf Graphic file (type pdf)
 <use resources/pdfs/backcover.pdf, page 1>
 Package pdftex.def Info: resources/pdfs/backcover.pdf , page1 used on input lin
-e 3885.
+e 3935.
 (pdftex.def)             Requested size: 597.00616pt x 844.69221pt.
-[136
+[137
 
  <./resources/pdfs/backcover.pdf>]
 (JWL 1 Year Chronological Review of Daniel Defoe Classic 1719 Novel Robinson Cr
@@ -7568,13 +7625,13 @@ L3 programming layer <2024-07-20>
  ***********
 Package rerunfilecheck Info: File `"JWL 1 Year Chronological Review of Daniel D
 efoe Classic 1719 Novel Robinson Crusoe".out' has not changed.
-(rerunfilecheck)             Checksum: 865BE5E37CA966C08D89476D9CF50A15;45685.
+(rerunfilecheck)             Checksum: A6B5E34848CBFF028A0935EEA8CDF2D9;45941.
  ) 
 Here is how much of TeX's memory you used:
- 18172 strings out of 473898
- 291145 string characters out of 5736297
+ 18177 strings out of 473898
+ 291197 string characters out of 5736297
  1949960 words of memory out of 5000000
- 40246 multiletter control sequences out of 15000+600000
+ 40248 multiletter control sequences out of 15000+600000
  642794 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,17n,93p,3805b,718s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -7597,9 +7654,9 @@ lic/lm/lmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:
 /Program Files/MiKTeX/fonts/type1/public/lm/lmtt8.pfb><C:/Program Files/MiKTeX/
 fonts/type1/public/lm/lmtti10.pfb>
 Output written on "JWL 1 Year Chronological Review of Daniel Defoe Classic 1719
- Novel Robinson Crusoe.pdf" (136 pages, 21125815 bytes).
+ Novel Robinson Crusoe.pdf" (137 pages, 21130246 bytes).
 PDF statistics:
- 2170 PDF objects out of 2487 (max. 8388607)
- 480 named destinations out of 1000 (max. 500000)
- 1171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2188 PDF objects out of 2487 (max. 8388607)
+ 483 named destinations out of 1000 (max. 500000)
+ 1187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
